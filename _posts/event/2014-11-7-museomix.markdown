@@ -1,19 +1,19 @@
 ---
-layout: project
-title:  "FabJam"
+layout: event
+title:  "Museomix"
 date:   2014-07-25 16:54:46
 author: 
 categories:
 - event
-img: fabjam.png
+img: museomix.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: 
-website: http://fabjam.org
-short: FabJam est un évènement qui réunit les ateliers de fabrication numérique du monde entier pour une journée de créativité autour d'un thème donné.  
+place: Musée des Beaux arts de Montréal
+website: http://museomixmtl.com
+short: Museomix est un évènement créatif de 3 jours au coeur d'un musée. 
 ---
 ####Museomix
 Museomix est un ... 

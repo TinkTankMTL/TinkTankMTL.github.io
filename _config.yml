@@ -26,16 +26,11 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
-    url:
+    url: https://www.facebook.com/groups/1459614080942550/
   - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+    url: http://twitter.com/tinktankMTL
+
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -84,12 +79,16 @@ members:
 clients:
   - name: dribbble
     img: client01.png
+    link: 
   - name: Code is Poetry
     img: client02.png
+    link: 
   - name: Vimeo
     img: client03.png
+    link:
   - name: VimeoPro
     img: client04.png
+    link:
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
