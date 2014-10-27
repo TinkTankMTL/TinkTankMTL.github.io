@@ -33,7 +33,19 @@
 .event-item h4 {
 	padding: 20px;
 }
-
+.logo img {
+	width: 52px;
+}
+.logo {
+	position: relative;
+	top: -12px;
+}
+.logo img:hover {
+	opacity:0.5;
+	transition: opacity .5s ease-in-out;
+ 	-moz-transition: opacity .5s ease-in-out;
+  	-webkit-transition: opacity .5s ease-in-out;
+}
 
 /*	################################################################
 	1. GENERAL STRUCTURES
