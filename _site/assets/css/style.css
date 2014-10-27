@@ -322,14 +322,14 @@ a:focus {
 	height:100%;
 	width:100%;
 	background-color:#C7C7C7;
-	background-color:rgba(0,179,254,.9);
+	background-color:rgba(189,195,199,.9);
 	text-align:center;
 }
 
 /* Testimonials Wrap */
 #twrapback {
     background-color: #C7C7C7;
-    background-color:rgba(0,179,254,.8);
+    background-color:rgba(189,195,199,.8);
     position: absolute;
     top: 0;
     left: 0;
