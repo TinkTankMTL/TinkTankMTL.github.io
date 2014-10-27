@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>{{ page.short }}</h4>
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Détails de l'évènement</h4>
+            <div class="hline"></div>
+            <p><b>Date :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Lieu :</b> {{ page.place }} </p>
+            <p><a href="{{ page.website }}">{{ page.website }}</a></p>
+        </div>
+    </div><!--/row -->
+</div><!--/container -->
+	 
+<!-- linked posts -->
