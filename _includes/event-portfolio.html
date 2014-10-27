@@ -1,0 +1,22 @@
+<div id="portfoliowrap">
+    <div class="portfolio-centered container">
+        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+        <div class="row">
+            {% for event in site.categories['event'] limit:include.limit %}
+                <div class="col-md-4 event-item">
+                    <div class="he-wrap tpl6">
+                    <img src="{{ "/assets/img/event/" | prepend: site.baseurl }}{{ event.img }}" alt="" style="width:100%">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">{{ event.title }}</h3>
+                                <h4>{{ event.short }}</h4>
+                                <a href="{{  event.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">Plus d'infos</a>
+                                <a href="{{  event.website | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+                </div><!-- end col-12 -->
+            {% endfor %}
+        </div><!-- portfolio -->
+    </div><!-- portfolio container -->
+</div><!--/Portfoliowrap -->

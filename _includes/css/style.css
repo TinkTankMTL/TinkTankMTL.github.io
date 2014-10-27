@@ -13,6 +13,28 @@
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
+
+/* ################################################################
+ My Modifications 
+################################################################### */ 
+
+.event-item img {
+	width: 100%;
+}
+.event-item {
+	padding-top: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.row {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.event-item h4 {
+	padding: 20px;
+}
+
+
 /*	################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
