@@ -7,13 +7,8 @@
                 <p>{{ site.about }}</p>
             </div>
             <div class="col-sm-3">
-                <h4>Cui cui</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for network in site.social %}
-                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
-                    {% endfor %}
-                </p>
+
+               
             </div>
             <div class="col-sm-3">
                 <h4>L'atelier</h4>
@@ -23,7 +18,12 @@
                         {{ line }} <br>
                     {% endfor %}
                 </p>
+                <p>
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                    {% endfor %}
+                </p>
             </div>
-        </div><! --/row -->
-    </div><! --/container -->
-</div><! --/footerwrap -->
+        </div> <!--/row -->
+    </div> <!--/container -->
+</div> <!--/footerwrap -->
