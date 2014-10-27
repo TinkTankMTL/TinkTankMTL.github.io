@@ -46,6 +46,11 @@
  	-moz-transition: opacity .5s ease-in-out;
   	-webkit-transition: opacity .5s ease-in-out;
 }
+#headerwrap {
+	background-image: url("{{ site.baseurl }} /assets/img/header_raspi.jpg");
+	background-position: center;
+	background-size: cover;
+}
 
 /*	################################################################
 	1. GENERAL STRUCTURES
