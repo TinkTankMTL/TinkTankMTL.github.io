@@ -47,51 +47,46 @@ tel: +438 398 5784
 # Members information. Shown on About page.
 members:
   - name: Arthur Schmitt 
-    position: Coordinateur technique
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: arthur.png
+    position: Lead prototypage
+    text: "Ingénieur (ENSAM, Imperial College) et designer (RCA), il est passionné par les nouvelles technologies et les pratiques collaboratives. Installé depuis un an à Montréal, il a auparavant participé à l’émergence des fablabs en France, notamment en contribuant à l'ouverture du premier fablab dans le centre de Paris."
+    img: Arthur_carré.jpg
     social:
       - title: envelope #use for email address
         url: mailto:arthur@tinktank.org
       - title: twitter
         url: http://twitter.com/tart2000
   - name: Justine Chapleau
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+    position: Lead projets
+    text: "Graduée de la maîtrise en Muséologie à l’UdeM et à l’UQÀM où elle s’est spécialisée dans la reconnaissance et le recensement des initiatives de hacking culturel en milieu muséal, Justine tente toujours de repousser les limites préétablies en réalisant des projets multidisciplinaires."
+    img: Justine_carré.jpg
     social:
       - title: envelope #use for email address
         url: mailto:justine@tinktank.org
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/justineGChaplea
   - name: Lucie Brillouet 
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    position: Lead design 
+    text: "Diplômée en design industriel (BDI / UdeM) et graduée du DESS in Communication Studies (Concordia), sa soif de culture ne s’arrête pas là. Après avoir mis un pied dans l’organisation d’événement culturel grâce au festival Art Souterrain, Lucie souhaite accompagner l’émergence de nouvelles pratiques collaboratives au croisement de la culture, du design et des nouvelles technologies."
+    img: Lucie_carré.jpg
     social:
       - title: envelope #use for email address
         url: mailto:lucie@tinktank.org
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/Lucie_Brllt
 
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
-    img: client01.png
-    link: 
-  - name: Code is Poetry
-    img: client02.png
-    link: 
-  - name: Vimeo
-    img: client03.png
-    link:
-  - name: VimeoPro
-    img: client04.png
-    link:
+  - name: Banff Center
+    img: banff.png
+    link: http://www.banffcentre.ca/
+  - name: MBAM
+    img: mbam.png
+    link: http://www.mbam.qc.ca/
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
+about_plus: "A mi-chemin entre un fablab, un incubateur et un laboratoire de recherche, TinkTank accompagne l'émergence d'une nouvelle génération de projets culturels, basés sur le commun."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
