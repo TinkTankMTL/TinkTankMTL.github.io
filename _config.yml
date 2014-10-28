@@ -49,7 +49,7 @@ members:
   - name: Arthur Schmitt 
     position: Lead prototypage
     text: "Ingénieur (ENSAM, Imperial College) et designer (RCA), il est passionné par les nouvelles technologies et les pratiques collaboratives. Installé depuis un an à Montréal, il a auparavant participé à l’émergence des fablabs en France, notamment en contribuant à l'ouverture du premier fablab dans le centre de Paris."
-    img: Arthur_carré.jpg
+    img: arthur_carre.jpg
     social:
       - title: envelope #use for email address
         url: mailto:arthur@tinktank.org
@@ -58,7 +58,7 @@ members:
   - name: Justine Chapleau
     position: Lead projets
     text: "Graduée de la maîtrise en Muséologie à l’UdeM et à l’UQÀM où elle s’est spécialisée dans la reconnaissance et le recensement des initiatives de hacking culturel en milieu muséal, Justine tente toujours de repousser les limites préétablies en réalisant des projets multidisciplinaires."
-    img: Justine_carré.jpg
+    img: justine_carre.jpg
     social:
       - title: envelope #use for email address
         url: mailto:justine@tinktank.org
@@ -67,7 +67,7 @@ members:
   - name: Lucie Brillouet 
     position: Lead design 
     text: "Diplômée en design industriel (BDI / UdeM) et graduée du DESS in Communication Studies (Concordia), sa soif de culture ne s’arrête pas là. Après avoir mis un pied dans l’organisation d’événement culturel grâce au festival Art Souterrain, Lucie souhaite accompagner l’émergence de nouvelles pratiques collaboratives au croisement de la culture, du design et des nouvelles technologies."
-    img: Lucie_carré.jpg
+    img: lucie_carre.jpg
     social:
       - title: envelope #use for email address
         url: mailto:lucie@tinktank.org
