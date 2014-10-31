@@ -1,0 +1,23 @@
+
+<div class="container centered">
+  {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+  
+  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+    {% for question in site.questions %}
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="heading{{ question.n }}">
+        <h4 class="panel-title">
+          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ question.n }}" aria-expanded="false" aria-controls="collapse{{ question.n }}">
+            {{ question.titre }}
+          </a>
+        </h4>
+      </div>
+      <div id="collapse{{ question.n }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{ question.n }}">
+        <div class="panel-body">
+          <p>{{ question.reponse }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}  
+  </div>
+</div>

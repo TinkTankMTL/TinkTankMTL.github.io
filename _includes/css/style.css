@@ -248,7 +248,7 @@ a:focus {
 	background-color: {{ site.colors.primary }};
 	min-height: 550px;
 	padding-top: 100px;
-	padding-bottom: 0px;
+	padding-bottom: 40px;
 	text-align: center;
 }
 
@@ -377,10 +377,6 @@ a:focus {
 	margin-top: 0px;
 	padding-top: 80px;
 	padding-bottom: 100px;
-}
-
-#cwrap h3 {
-	margin-bottom: 60px;
 }
 
 /* Footer */

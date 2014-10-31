@@ -84,6 +84,27 @@ clients:
     img: mbam.png
     link: http://www.mbam.qc.ca/
     
+# Principes de travail 
+principes:
+  - name: Prototypage
+    faicon: cubes
+    texte: "Le prototype est au coeur de notre philosophie de travail. Il permet de réunir une équipe autour d'une idée, de tester des choses, etc."
+  - name: Collaboration 
+    faicon: comments
+    texte: "Nous menons tous nos projets de manière collaborative et expérimentons en permanence avec les nouvelles pratiques."
+  - name: Ouverture
+    faicon: unlock
+    texte: "Nous pensons qu'à l'heure du numérique, l'innovation doit passer par l'ouverture et le partage. En plus de rendre les fichiers accessibles, nous partageons notre expertise."
+
+# Questions 
+questions: 
+  - titre: "Combien ça prend d'iPad ?"
+    reponse: "Ben, ça on peut pas vraiment le dire..."
+    n: 1
+  - titre: "encore quelques questions sur nous"
+    reponse: "Ben ça peut bien être une autre réponse. Qui pourrait être un peu plus longue que celle d'avant."
+    n: 2
+
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
 about_plus: "A mi-chemin entre un fablab, un incubateur et un laboratoire de recherche, TinkTank accompagne l'émergence d'une nouvelle génération de projets culturels, basés sur le commun."

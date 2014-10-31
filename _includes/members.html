@@ -1,7 +1,9 @@
 <div class="container mtb">
     <div class="row centered">
-        <h3 class="mb">Notre équipe</h3>
-        
+        <div class="col-md-12">
+            <h3>Notre équipe</h3>
+            <hr>
+        </div>
         {% for member in site.members %}
         <div class="col-lg-4 col-md-4 col-sm-4">
             <div class="he-wrap tpl6">
@@ -19,8 +21,8 @@
             <h5 class="ctitle">{{ member.position }}</h5>
             <p>{{ member.text }}</p>
             <div class="hline"></div>
-        </div><! --/col-lg-3 -->	 	
+        </div> <!--/col-lg-3 -->	 	
         {% endfor %}
         
-    </div><! --/row -->
-</div><! --/container -->
+    </div> <!--/row -->
+</div> <!--/container -->
