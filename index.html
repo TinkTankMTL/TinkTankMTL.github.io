@@ -8,48 +8,31 @@ permalink: /
     <div class="container">
         <div class="row centered">
             <h3>Principes de travail</h3>
+            <hr>
             <h3></h3>
+
+            {% for principe in site.principes %}
             <div class="col-md-4">
-                <i class="fa fa-cubes"></i>
-                <h4>Prototypage</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">En savoir plus</a></p>
+                <i class="fa fa-{{ principe.faicon }}"></i>
+                <h4>{{ principe.name }}</h4>
+                <p>{{ principe.texte }}</p>
             </div>
-            <div class="col-md-4">
-                <i class="fa fa-comments"></i>
-                <h4>Collaboration</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">En savoir plus</a></p>
-            </div>
-            <div class="col-md-4">
-                <i class="fa fa-unlock"></i>
-                <h4>Ouverture</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">En savoir plus</a></p>
-            </div>		 				
+            {% endfor %}	
+            <div class="col-md-12">
+                <a href="#" class="btn btn-theme">En savoir plus</a>
+            </div>		
         </div>
-    </div><! --/container -->
-</div><! --/service -->
+    </div> <!--/container -->
+</div> <!--/service -->
 
 {% include portfolio.html title="Projets" limit=10 %}
 
-{% include event-portfolio.html title="Evènements" limit=3 %}
+{% include event-portfolio.html title="Evénements créatifs" limit=3 %}
+
+{% include questions.html title="Des questions ?" %}
 
 <div class="container mtb">
     <div class="row">
-        <div class="col-lg-4 col-lg-offset-1">
-            <h4>A propos de nous</h4>
-            <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">En savoir plus</a></p>
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Des questions ?</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
-            {% endfor %}
-        </div>
 
         <div class="col-lg-3">
             <h4>Articles récents</h4>
@@ -59,5 +42,5 @@ permalink: /
             {% endfor %} 
         </div>
 
-    </div><! --/row -->
-</div><! --/container -->
+    </div> <!--/row -->
+</div> <!--/container -->

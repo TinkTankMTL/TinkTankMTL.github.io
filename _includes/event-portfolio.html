@@ -1,6 +1,7 @@
 <div id="portfoliowrap">
     <div class="portfolio-centered container">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+        <hr>
         <div class="row">
             {% for event in site.categories['event'] limit:include.limit %}
                 <div class="col-md-4 event-item">
