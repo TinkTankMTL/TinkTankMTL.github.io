@@ -70,45 +70,27 @@
         <div class="col-lg-8">
             <h4>Nous écrire</h4>
             <div class="hline  smb"></div>
-              <?php 
-                if ($_POST["email"]<>'') { 
-                    $ToEmail = 'arthur@tinktank.org'; 
-                    $EmailSubject = 'Contact from TinkTank site'.$_POST["InputSubject1"]; 
-                    $mailheader = "From: ".$_POST["InputEmail1"]."\r\n"; 
-                    $mailheader .= "Reply-To: ".$_POST["InputEmail1"]."\r\n"; 
-                    $mailheader .= "Content-type: text/html; charset=iso-8859-1\r\n"; 
-                    $MESSAGE_BODY = "Name: ".$_POST["InputName1"].""; 
-                    $MESSAGE_BODY .= "Email: ".$_POST["InputEmail1"].""; 
-                    $MESSAGE_BODY .= "Texte: ".nl2br($_POST["message1"]).""; 
-                    mail($ToEmail, $EmailSubject, $MESSAGE_BODY, $mailheader) or die ("Failure"); 
-                ?> 
-                Message envoyé ! Merci. 
-                <?php 
-                } else { 
-                ?> 
-                <form role="form" method="post">
+              
+                <form role="form" method="post" action="process.php">
                   <div class="form-group">
-                    <label for="InputName1">Votre nom</label>
-                    <input type="name" class="form-control" id="InputName1">
+                    <label for="name">Votre nom</label>
+                    <input type="name" class="form-control" id="name">
                   </div>
                   <div class="form-group">
-                    <label for="InputEmail1">Adresse email</label>
-                    <input type="email" class="form-control" id="InputEmail1">
+                    <label for="email">Adresse email</label>
+                    <input type="email" class="form-control" id="email">
                   </div>
                   <div class="form-group">
-                    <label for="InputSubject1">Sujet</label>
-                    <input type="sujet" class="form-control" id="InputSubject1">
+                    <label for="subject">Sujet</label>
+                    <input type="sujet" class="form-control" id="subject">
                   </div>
                   <div class="form-group">
-                    <label for="message1">Message</label>
-                    <textarea class="form-control" id="message1" rows="3"></textarea>
+                    <label for="message">Message</label>
+                    <textarea class="form-control" id="message" rows="3"></textarea>
                   </div>
                   <button type="submit" name="submit" class="btn btn-theme">Envoyer</button>
                 </form>
-                <?php 
-                }; 
-                ?>
-                
+
         </div> <!--/col-lg-8 -->
 
         <div class="col-lg-4">
