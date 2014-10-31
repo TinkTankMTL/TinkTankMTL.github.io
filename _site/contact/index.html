@@ -69,9 +69,24 @@
     <div class="row">
         <div class="col-lg-8">
             <h4>Nous écrire</h4>
-            <div class="hline"></div>
-                <p>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</p>
-                <form role="form">
+            <div class="hline  smb"></div>
+              <?php 
+                if ($_POST["email"]<>'') { 
+                    $ToEmail = 'arthur@tinktank.org'; 
+                    $EmailSubject = 'Contact from TinkTank site'.$_POST["InputSubject1"]; 
+                    $mailheader = "From: ".$_POST["InputEmail1"]."\r\n"; 
+                    $mailheader .= "Reply-To: ".$_POST["InputEmail1"]."\r\n"; 
+                    $mailheader .= "Content-type: text/html; charset=iso-8859-1\r\n"; 
+                    $MESSAGE_BODY = "Name: ".$_POST["InputName1"].""; 
+                    $MESSAGE_BODY .= "Email: ".$_POST["InputEmail1"].""; 
+                    $MESSAGE_BODY .= "Texte: ".nl2br($_POST["message1"]).""; 
+                    mail($ToEmail, $EmailSubject, $MESSAGE_BODY, $mailheader) or die ("Failure"); 
+                ?> 
+                Message envoyé ! Merci. 
+                <?php 
+                } else { 
+                ?> 
+                <form role="form" method="post">
                   <div class="form-group">
                     <label for="InputName1">Votre nom</label>
                     <input type="name" class="form-control" id="InputName1">
@@ -88,9 +103,13 @@
                     <label for="message1">Message</label>
                     <textarea class="form-control" id="message1" rows="3"></textarea>
                   </div>
-                  <button type="submit" class="btn btn-theme">Envoyer</button>
+                  <button type="submit" name="submit" class="btn btn-theme">Envoyer</button>
                 </form>
-        </div><! --/col-lg-8 -->
+                <?php 
+                }; 
+                ?>
+                
+        </div> <!--/col-lg-8 -->
 
         <div class="col-lg-4">
             <h4>Nous trouver</h4>
@@ -108,10 +127,12 @@
                     Email: ping@tinktankg.org<br/>
                     Tel: +438 398 5784
                 </p>
-                <p>Nous sommes hébergés dans les locaux de Simbioz, que nous remercions chaleureusement pour leur support.</p>
+                <p><a href="https://www.google.ca/maps/place/7255+Rue+Alexandra+%23203,+Montr%C3%A9al,+QC+H2R+2Y9/@45.533164,-73.6217023,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc91911fe132719:0xb053a656edc3f93d">Itinéraire</a>
+                </p>
+                <p>Nous sommes hébergés dans les locaux de <a href="http://www.simbioz.com/">Simbioz</a>, que nous remercions chaleureusement pour leur support.</p>
         </div>
-    </div><! --/row -->
-</div><! --/container -->
+    </div> <!--/row -->
+</div> <!--/container -->
 
         <div id="footerwrap">
     <div class="container">
