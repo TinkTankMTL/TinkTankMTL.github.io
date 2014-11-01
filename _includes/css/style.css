@@ -22,7 +22,7 @@
 	width: 100%;
 }
 .event-item {
-	padding-top: 15px;
+	padding-top: 10px;
 	padding-left: 5px;
 	padding-right: 5px;
 }
@@ -73,6 +73,14 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+hr {
+	margin-bottom: 0px;
+}
+.spacer {
+	background-image: url("/assets/img/subtle_white_feathers.png");
+	height: 10px;
+	width: 100%; 
 }
 
 /*	################################################################
@@ -291,7 +299,7 @@ a:focus {
 
 /* Services Wrap */
 #service {
-	margin-top: 100px;
+	margin-top: 80px;
 	margin-bottom: 80px;
 }
 
@@ -303,8 +311,8 @@ a:focus {
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	padding-top: 60px;
-	margin-bottom: 60px;
+	padding-top: 50px;
+	margin-bottom: 50px;
 	display: block;
 	text-align: center
 }

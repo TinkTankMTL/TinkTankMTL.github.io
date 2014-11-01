@@ -3,7 +3,7 @@ layout: index
 title: Home
 permalink: /
 ---
-
+<div class="spacer"></div>
 <div id="service">
     <div class="container">
         <div class="row centered">
@@ -25,9 +25,11 @@ permalink: /
     </div> <!--/container -->
 </div> <!--/service -->
 
-{% include portfolio.html title="Projets" limit=10 %}
+
 
 {% include event-portfolio.html title="Evénements créatifs" limit=3 %}
+
+{% include project-portfolio2.html title="Projets" limit=6 %}
 
 {% include questions.html title="Des questions ?" %}
 
