@@ -19,14 +19,17 @@ layout: default
             <div class="spacing"></div>
             <h4>Project Details</h4>
             <div class="hline"></div>
-            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Author:</b> {{ page.author }}</p>
-            <p><b>Categories:</b> {{ page.categories }}</p>
-            <p><b>Tagged:</b> Flat, UI, Development</p>
-            <p><b>Client:</b> {{ page.client }}</p>
-            <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>
+            <p><b>Date:</b> {{ page.date | date: "%d/%m/%Y" }}</p>
+            <p><b>Partneaires :</b>
+            <ul> 
+                {% for partner in page.partners %}
+                <li><a href="{{ partner.link }}">{{ partner.name }}</a></li>
+                {% endfor %}
+            </ul>
+            </p>
+            <p><i class="fa fa-link"></i><a href="{{ page.website }}">{{ page.website }}</a></p>
+            <p><i class="fa fa-github"></i><a href="{{ page.fork }}">{{ page.fork }}</a></p>
         </div>
-    </div><! --/row -->
-</div><! --/container -->
+    </div> <!--/row -->
+</div> <!--/container -->
 	 
-{% include portfolio.html title="Related Works." limit=5 %}
