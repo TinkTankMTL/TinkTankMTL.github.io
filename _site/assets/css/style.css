@@ -47,12 +47,32 @@
   	-webkit-transition: opacity .5s ease-in-out;
 }
 #headerwrap {
-	background-image: url(" /assets/img/header_raspi.jpg");
+	background-image: url("/assets/img/header_raspi.jpg");
 	background-position: center;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 	background-size: cover;
 }
 .smb {
 	margin-bottom: 10px;
+}
+#thankswrap {
+	background-image: url("/assets/img/header_nous.jpg");
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 /*	################################################################
@@ -415,7 +435,7 @@ a:focus {
 #blue {
 	background: #F4F4F4;
 	margin-top: 60px;
-	margin-bottom: 60px;
+	margin-bottom: 0px;
 	padding-top: 25px;
 	padding-bottom: 15px;
 }
@@ -448,7 +468,7 @@ csmall {
 /* Contact Page */
 #contactwrap {
 	background: url(../img/contact.png) no-repeat center top;
-	margin-top: -60px;
+	
 	padding-top:0px;
 	text-align:center;
 	background-attachment: relative;
