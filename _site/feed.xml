@@ -5,9 +5,32 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 31 Oct 2014 22:23:24 -0400</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2014 22:23:24 -0400</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2014 23:06:55 -0400</pubDate>
+    <lastBuildDate>Fri, 31 Oct 2014 23:06:55 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Project: Plateforme de documentation de projets collaboratifs</title>
+        <description>&lt;h4 id=&quot;un-outil-de-documentation-pour-museomix&quot;&gt;Un outil de documentation pour Museomix&lt;/h4&gt;
+&lt;p&gt;Depuis l’origine de Museomix, en 2011 à Paris, la volonté a été de documenter les projets réalisés par les participants. Mais ceci a été fait de manière plus ou moins réussie, en essayant pluesieurs méthodes, successivement… A Montréal, nous avons finalement proposé au reste de la communauté internationale de développer une plateforme spécifique. Elle est testée localement à Montréal pour l’édition de 2014, avec l’ambition de servir les projets internationaux en 2015. &lt;/p&gt;
+
+&lt;h4 id=&quot;fonctionalits&quot;&gt;Fonctionalités&lt;/h4&gt;
+&lt;p&gt;La plateforme est développée en Node.js, ce qui lui permet d’être entièrement réactive. 
+Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel is peuvent inviter d’autre utilisateurs. Les projets sont ensuite décopés en deux parties principales (description et instructions), chacune permettant d’ajouter du texte, des images, vidéos et fichiers. &lt;/p&gt;
+
+&lt;h4 id=&quot;et-aprs-&quot;&gt;Et après ?&lt;/h4&gt;
+&lt;p&gt;Nous voulons que la plateforme permette aux projets de vivre au delà de l’événement, par exemple en permettant aux porteurs de projets de poster des ‘updates’. 
+Nous voulons aussi tester la plateforme sur d’autres événements que Museomix et sur d’autre sujets.  &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 28 Oct 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/project/platform</link>
+        <guid isPermaLink="true">http://yourdomain.com/project/platform</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Event: Museomix</title>
@@ -57,23 +80,6 @@
         
         
         <category>event</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
         
       </item>
     
