@@ -5,9 +5,41 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 31 Oct 2014 23:06:55 -0400</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2014 23:06:55 -0400</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2014 16:13:43 -0400</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2014 16:13:43 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Event: Museomix</title>
+        <description>&lt;h4 id=&quot;museomix&quot;&gt;Museomix&lt;/h4&gt;
+&lt;p&gt;Museomix est un événement international et cocréatif de trois jours rassemblant au coeur d’un musée des professionnels aux profils variés pour concevoir et prototyper de nouvelles expériences muséales mêlant interactivité et solutions numériques. Les dispositifs créés se basent sur les espaces et contenus (expositions, collections, architecture, contenus numérisés, espace publics, etc.) mis à disposition par le musée qui se laisse «envahir» par cette communauté. &lt;/p&gt;
+
+&lt;p&gt;Pour la quatrième année consécutive, et pour la première fois à Montréal, Museomix réunit les communautés des professionnels des musées, des acteurs de l’innovation et du numérique et des passionnés de culture pour imaginer ensemble une nouvelle manière de vivre le museée.&lt;/p&gt;
+
+&lt;p&gt;Le projet est toujours porté par la même vision depuis son origine, à Paris, en 2011 :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;un musée ouvert où chacun trouve sa place,&lt;/li&gt;
+  &lt;li&gt;un musée labo vivant qui évolue avec ses utilisateurs,&lt;/li&gt;
+  &lt;li&gt;un musée en réseau auprès de ses communautés.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Museomix, premier dispositif d’innovation ouvert et participatif destiné au monde des musées, investit les lieux et en bouscule le fonctionnement habituel. En encourageant la collaboration, l’expérimentation et l’ouverture, il amorce une évolution des pratiques muséales dans leur ensemble.&lt;/p&gt;
+
+&lt;p&gt;En 2014, Museomix a lieu simultanément dans 7 musées différents, au Canada, en France, en Suisse et au Royaume-Uni : Musée des beaux-arts de Montréal, Musée départemental Arles antique, Museon Arlaten, Museum d’histoire naturelle de Nantes, Musée d’Histoire Naturelle et de Géologie de Lille, Musée d’art et d’histoire de Genève, Musée d’Art et d’Industrie de Saint-Étienne et Derby Silk Museum.&lt;/p&gt;
+
+&lt;p&gt;Museomix Montréal 2014 prévoit la création de 12 équipes de six personnes et pour la première fois fait place à des profils en ‘développement d’affaires’ et ‘droits d’auteur’.&lt;/p&gt;
+
+&lt;p&gt;Enfin, MuseomixMTL est la première et la seule édition (en 4 ans!) à être bilingue afin de refléter la diversité des profils et des cultures à Montréal et plus largement au Canada.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/event/museomix</link>
+        <guid isPermaLink="true">http://yourdomain.com/event/museomix</guid>
+        
+        
+        <category>event</category>
+        
+      </item>
     
       <item>
         <title>Project: Plateforme de documentation de projets collaboratifs</title>
@@ -15,13 +47,17 @@
 &lt;p&gt;Depuis l’origine de Museomix, en 2011 à Paris, la volonté a été de documenter les projets réalisés par les participants. Mais ceci a été fait de manière plus ou moins réussie, en essayant pluesieurs méthodes, successivement… A Montréal, nous avons finalement proposé au reste de la communauté internationale de développer une plateforme spécifique. Elle est testée localement à Montréal pour l’édition de 2014, avec l’ambition de servir les projets internationaux en 2015. &lt;/p&gt;
 
 &lt;h4 id=&quot;fonctionalits&quot;&gt;Fonctionalités&lt;/h4&gt;
-&lt;p&gt;La plateforme est développée en Node.js, ce qui lui permet d’être entièrement réactive. 
-Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel is peuvent inviter d’autre utilisateurs. Les projets sont ensuite décopés en deux parties principales (description et instructions), chacune permettant d’ajouter du texte, des images, vidéos et fichiers. &lt;/p&gt;
+&lt;p&gt;La plateforme est développée en Node.js, ce qui lui permet d’être réactive en temps réel. 
+Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel is peuvent inviter d’autre utilisateurs. Les projets sont ensuite découpés en deux parties principales (description et instructions), chacune permettant d’ajouter du texte, des images, vidéos et fichiers. &lt;/p&gt;
 
 &lt;h4 id=&quot;et-aprs-&quot;&gt;Et après ?&lt;/h4&gt;
 &lt;p&gt;Nous voulons que la plateforme permette aux projets de vivre au delà de l’événement, par exemple en permettant aux porteurs de projets de poster des ‘updates’. 
-Nous voulons aussi tester la plateforme sur d’autres événements que Museomix et sur d’autre sujets.  &lt;/p&gt;
+Nous voulons aussi tester la plateforme sur d’autres événements que Museomix et sur d’autre sujets. &lt;/p&gt;
 
+&lt;h4 id=&quot;un-manque--combler-&quot;&gt;Un manque à combler ?&lt;/h4&gt;
+&lt;p&gt;Aujourd’hui, aucune plateforme ne permet de documenter des projets collaboratifs, non-finis, qui mélangent &lt;em&gt;hardware&lt;/em&gt; et &lt;em&gt;software&lt;/em&gt;. C’est l’objectif que nous nous donnons avec cette plateforme. &lt;/p&gt;
+
+&lt;p&gt;Si le projet vous intéresse, que vous voulez contribuer et / ou l’expérimenter, n’hésitez pas à nous contacter.  &lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Oct 2014 12:54:46 -0400</pubDate>
         <link>http://yourdomain.com/project/platform</link>
@@ -29,23 +65,6 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
         
         
         <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Event: Museomix</title>
-        <description>&lt;h4 id=&quot;museomix&quot;&gt;Museomix&lt;/h4&gt;
-&lt;p&gt;Museomix est un … &lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Jul 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/event/museomix</link>
-        <guid isPermaLink="true">http://yourdomain.com/event/museomix</guid>
-        
-        
-        <category>event</category>
         
       </item>
     
@@ -84,104 +103,104 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Blog: Time to change your apps</title>
+        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog/wordpress/photoshop/time-to-change-your-apps</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/wordpress/photoshop/time-to-change-your-apps</guid>
         
         
-        <category>project</category>
+        <category>blog</category>
+        
+        <category>wordpress</category>
+        
+        <category>photoshop</category>
         
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Blog: Our new logo is here</title>
+        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog/web-design/development/our-new-logo-is-here</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/web-design/development/our-new-logo-is-here</guid>
         
         
-        <category>project</category>
+        <category>blog</category>
+        
+        <category>web-design</category>
+        
+        <category>development</category>
         
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Blog: Logo design contest starts now</title>
+        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</guid>
         
         
-        <category>project</category>
+        <category>blog</category>
         
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <category>tips&amp;tricks</category>
         
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
+        <category>code-snippets</category>
         
       </item>
     

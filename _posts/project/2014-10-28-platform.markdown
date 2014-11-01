@@ -2,15 +2,15 @@
 layout: project
 title:  "Plateforme de documentation de projets collaboratifs"
 date:   2014-10-28 16:54:46
-author: Marcel Newman
+author: 
 categories:
 - project
 img: platform.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- platform1.jpg
+- platform2.jpg
+- platform3.jpg
 partners: 
 - name: Museomix
   link: http://museomix.org 
@@ -25,10 +25,14 @@ fork: https://github.com/tart2000/microscopic
 Depuis l'origine de Museomix, en 2011 à Paris, la volonté a été de documenter les projets réalisés par les participants. Mais ceci a été fait de manière plus ou moins réussie, en essayant pluesieurs méthodes, successivement... A Montréal, nous avons finalement proposé au reste de la communauté internationale de développer une plateforme spécifique. Elle est testée localement à Montréal pour l'édition de 2014, avec l'ambition de servir les projets internationaux en 2015. 
 
 ####Fonctionalités 
-La plateforme est développée en Node.js, ce qui lui permet d'être entièrement réactive. 
-Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel is peuvent inviter d'autre utilisateurs. Les projets sont ensuite décopés en deux parties principales (description et instructions), chacune permettant d'ajouter du texte, des images, vidéos et fichiers. 
+La plateforme est développée en Node.js, ce qui lui permet d'être réactive en temps réel. 
+Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel is peuvent inviter d'autre utilisateurs. Les projets sont ensuite découpés en deux parties principales (description et instructions), chacune permettant d'ajouter du texte, des images, vidéos et fichiers. 
 
 ####Et après ? 
 Nous voulons que la plateforme permette aux projets de vivre au delà de l'événement, par exemple en permettant aux porteurs de projets de poster des 'updates'. 
-Nous voulons aussi tester la plateforme sur d'autres événements que Museomix et sur d'autre sujets.  
+Nous voulons aussi tester la plateforme sur d'autres événements que Museomix et sur d'autre sujets. 
 
+####Un manque à combler ?  
+Aujourd'hui, aucune plateforme ne permet de documenter des projets collaboratifs, non-finis, qui mélangent *hardware* et *software*. C'est l'objectif que nous nous donnons avec cette plateforme. 
+
+Si le projet vous intéresse, que vous voulez contribuer et / ou l'expérimenter, n'hésitez pas à nous contacter.  
