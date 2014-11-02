@@ -1,22 +1,29 @@
 ---
 layout: event
 title:  "FabJam"
-date:   2014-07-25 16:54:46
+dates:   14 juin 2014
 author: 
 categories:
 - event
 img: fabjam.png
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- fabjam1.jpg
+- fabjam2.jpg
+- fabjam3.jpg
+- fabjam4.jpg
+- fabjam5.jpg
 place: partout dans le monde 
-website: http://fabjam.org
+links: 
+- http://fabjam.org
 short: FabJam est un évènement qui réunit les ateliers de fabrication numérique du monde entier pour une journée de créativité autour d'un thème donné.  
+credits: Garagem (Brésil) et FabLab LUX (Luxembourg)
 ---
-####Museomix
-Museomix est un ... 
+TinkTank a contribué à l'organisation de FabJam pour sa deuxième édition internationale, qui a réunit près de cinquante *fabspaces* (hackerspaces, fablabs, makerspaces, etc.) pour une journée de créativité collective autour du thème de 'Mobiquity' (*mobility + ubiquity*).
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Pendant toute la journée, les *fabspaces*, situés dans une dizaine de *timezones* différentes, sont mis en contact grace à des vidéo-conférences. 
+
+En 2014, le partenaire principal était Renault et les partenaires événementiels étaient OuiShare Fest et Fab10. 
+
+FabJam cherche à pousser les limites du mouvement *Maker*, de la fabrication numérique, de la production distribuée et de l'*Open Design*.  
+

@@ -1,19 +1,23 @@
 ---
 layout: event
 title:  "International Space Apps Challenge"
-date:   2014-05-13 16:54:46
+dates:   12 et 13 mai 2014
 author: 
 categories:
 - event
 img: space-apps.png
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- spaceapps1.jpg
+- spaceapps2.jpg
+- spaceapps3.jpg
+- spaceapps4.jpg
+- spaceapps5.jpg
 place: partout dans le monde 
-website: http://spaceappschallenge.org
+links: 
+- http://spaceappschallenge.org
 short: Space est un évènement annuel, organisé par la NASA, qui invite de amateurs de l'espace de tous profils à concevoir ensemble des applications technologiques.   
+credits: Portraits de Montréal 
 ---
 ####SpaceApps 
 Museomix est un ... 
