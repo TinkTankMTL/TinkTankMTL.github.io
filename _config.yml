@@ -2,7 +2,7 @@
 
 # Site settings
 title: TINKTANK
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -10,7 +10,7 @@ url: "http://yourdomain.com"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+excerpt_separator: <!-- en savoir plus --> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
   primary: "#C7C7C7" 
@@ -88,13 +88,13 @@ clients:
 principes:
   - name: Prototypage
     faicon: cubes
-    texte: "Le prototype est au coeur de notre philosophie de travail. Il permet de réunir une équipe autour d'une idée, de tester des choses, etc."
+    texte: "Le prototype est au coeur de notre philosophie de travail et de nos projets. Il permet de tester rapidement des idées et de réunir une équipe autour d'un concept."
   - name: Collaboration 
     faicon: comments
-    texte: "Nous menons tous nos projets de manière collaborative et expérimentons en permanence avec les nouvelles pratiques."
+    texte: "Nous menons tous nos projets de manière collaborative et expérimentons en permanence avec les nouvelles pratiques et les nouveaux outils."
   - name: Ouverture
     faicon: unlock
-    texte: "Nous pensons qu'à l'heure du numérique, l'innovation doit passer par l'ouverture et le partage. En plus de rendre les fichiers accessibles, nous partageons notre expertise."
+    texte: "Nous pensons qu'à l'heure du numérique, l'innovation doit passer par l'ouverture et le partage. C'est pourquoi tous les projets que nous développons sont documentés et partagés."
 
 # Questions 
 questions: 

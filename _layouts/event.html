@@ -22,8 +22,10 @@ layout: default
             <p><b>Date :</b> {{ page.dates }}</p>
             <p><b>Lieu :</b> {{ page.place }} </p>
             {% for link in page.links %}
-            <p><a href="{{ link }}">{{ link }}</a></p>
+            <p><a href="{{ link }}" target="_blank">{{ link }}</a></p>
             {% endfor %}
+            <hr>
+            <p><i>photos : {{ page.credits }}</i></p>
         </div>
     </div><!--/row -->
 </div><!--/container -->

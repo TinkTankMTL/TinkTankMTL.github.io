@@ -17,10 +17,10 @@ place: Musée des Beaux arts de Montréal
 links: 
 - http://museomixmtl.com
 - http://museomix.org
-short: Museomix est un évènement créatif de 3 jours au coeur d'un musée. 
+short: Museomix est un événement créatif de trois jours rassemblant au coeur d’un musée des professionnels aux profils variés pour concevoir et prototyper de nouvelles expériences muséales mêlant interactivité et solutions numériques. 
+credits: éditions précedentes de Museomix 
 ---
-####Museomix
-Museomix est un événement international et cocréatif de trois jours rassemblant au coeur d’un musée des professionnels aux profils variés pour concevoir et prototyper de nouvelles expériences muséales mêlant interactivité et solutions numériques. Les dispositifs créés se basent sur les espaces et contenus (expositions, collections, architecture, contenus numérisés, espace publics, etc.) mis à disposition par le musée qui se laisse «envahir» par cette communauté. 
+Les dispositifs créés se basent sur les espaces et contenus (expositions, collections, architecture, contenus numérisés, espace publics, etc.) mis à disposition par le musée qui se laisse «envahir» par cette communauté. 
 
 Pour la quatrième année consécutive, et pour la première fois à Montréal, Museomix réunit les communautés des professionnels des musées, des acteurs de l’innovation et du numérique et des passionnés de culture pour imaginer ensemble une nouvelle manière de vivre le museée.
 
@@ -37,3 +37,5 @@ En 2014, Museomix a lieu simultanément dans 7 musées différents, au Canada, e
 Museomix Montréal 2014 prévoit la création de 12 équipes de six personnes et pour la première fois fait place à des profils en ‘développement d’affaires’ et ‘droits d’auteur’.
 
 Enfin, MuseomixMTL est la première et la seule édition (en 4 ans!) à être bilingue afin de refléter la diversité des profils et des cultures à Montréal et plus largement au Canada.
+
+TinkTank est responsable de la coordination générale de l'événement, qui réunit plus de 200 personnes et plus de 30 entreprises différentes.  
