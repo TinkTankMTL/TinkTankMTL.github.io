@@ -5,8 +5,8 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 01 Nov 2014 22:17:41 -0400</pubDate>
-    <lastBuildDate>Sat, 01 Nov 2014 22:17:41 -0400</lastBuildDate>
+    <pubDate>Sun, 02 Nov 2014 21:45:03 -0500</pubDate>
+    <lastBuildDate>Sun, 02 Nov 2014 21:45:03 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -91,11 +91,15 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
     
       <item>
         <title>Event: International Space Apps Challenge</title>
-        <description>&lt;h4 id=&quot;spaceapps&quot;&gt;SpaceApps&lt;/h4&gt;
-&lt;p&gt;Museomix est un … &lt;/p&gt;
+        <description>&lt;p&gt;Space Apps Challenge est un &lt;em&gt;hackathon&lt;/em&gt; international de deux jours où des équipes de techniciens, scientifiques, designers, artistes, éducateurs, entrepreneurs, développeurs, et étudiants collaborent à travers le monde, en utilisant les données publiques afin de concevoir des solutions innovantes à des défis globaux en matière de développement logiciel, science citoyenne, hardware ou visualisation de données. &lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;Pour l’événement de 2013, plus de 9000 citoyens dans 44 pays et 83 villes du monde ont collaboré ensemble et avec la NASA pour le plus grand hackathon de l’histoire, pour créer 770 solutions!&lt;/p&gt;
+
+&lt;p&gt;Les équipes Space Apps peuvent créer leur projet parmi une large sélection de problèmes significatifs et importants identifiés par la NASA. Des défis sont organisés selon quatre catégories - logiciel, hardware, visualisation de donnée et science citoyenne. &lt;/p&gt;
+
+&lt;p&gt;Les challenges de l’évènement 2014 étaient organisés autour de 5 thèmes: la robotique, la technologie spatiale, les vols spatiaux habités, la surveillance de la Terre et les astéroïdes. En plus de ça, des challenges ‘donnée’ et ‘éducation’ étaient proposés dans chacun de ces sujets. &lt;/p&gt;
+
+&lt;p&gt;TinkTank est l’organisateur de l’édition Montréalaise du Space Apps Challenge.&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 May 2014 00:00:00 -0400</pubDate>
         <link>http://yourdomain.com/event/spaceapps</link>
