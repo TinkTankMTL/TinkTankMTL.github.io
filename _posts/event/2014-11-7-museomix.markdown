@@ -14,6 +14,7 @@ carousel:
 - museomix4.jpg
 - museomix5.jpg
 place: Musée des Beaux arts de Montréal
+postcategory: museomix
 links: 
 - http://museomixmtl.com
 - http://museomix.org

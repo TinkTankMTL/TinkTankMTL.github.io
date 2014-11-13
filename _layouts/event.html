@@ -27,6 +27,16 @@ layout: default
             <hr>
             <p><i>photos : {{ page.credits }}</i></p>
         </div>
+        <div class="col-md-4">
+            <div class="spacing"></div>
+            <h4>Articles liés</h4>
+            <div class="hline"></div>
+                {% for cat in page.postcategory %}
+                    {% for post in site.categories[cat] %}
+                        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                    {% endfor %}
+                {% endfor %}
+        </div>
     </div><!--/row -->
 </div><!--/container -->
 	 
