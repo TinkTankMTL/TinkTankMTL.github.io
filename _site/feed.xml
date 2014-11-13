@@ -5,9 +5,32 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 15:52:11 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 15:52:11 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 16:18:27 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 16:18:27 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Blog: Visite surprise</title>
+        <description>&lt;p&gt;Nous avons eu la chance d’avoir une visite surprise de Madame la ministre de la culture Hélène David lors de l’expérimentation des prototypes de Museomix. Elle a parcouru avec intérêt l’ensemble des 12 prototypes et a semblée très intéressée par le processus collaboratif. Elle a ajouté que Museomix s’intégrait parfaitement dans la vision du &lt;a href=&quot;http://www.culturenumerique.mcc.gouv.qc.ca/&quot;&gt;plan culturel numérique du Québec&lt;/a&gt; présenté il y a quelques semaines.&lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;C’est extraordinaire ! &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/0xpGKsSyJZ4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 11 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/blog/museomix/ministre</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/museomix/ministre</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>museomix</category>
+        
+      </item>
     
       <item>
         <title>Event: Museomix</title>
