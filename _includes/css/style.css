@@ -89,13 +89,21 @@ ul {
 .fa {
 	margin-right: 10px;
 }
+.dmbutton .fa {
+	margin-right: 0px;
+}
 #footerwrap {
 	margin-top: 50px;
 }
 .member-item {
 	padding-top: 15px;
 }
-
+.smt {
+	margin-top: 10px;
+}
+.smb {
+	margin-bottom: 10px;
+}
 
 /*	################################################################
 	1. GENERAL STRUCTURES
@@ -245,7 +253,7 @@ a:focus {
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	padding-top: 1.025rem;
-	padding-right: 1.25rem;
+	padding-right: 2.25rem;
 	letter-spacing:0.85px;
 	padding-bottom: 1.0875rem;
 	padding-left: 2.25rem;
