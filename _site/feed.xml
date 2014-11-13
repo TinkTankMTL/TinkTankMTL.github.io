@@ -5,8 +5,8 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 14:12:35 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 14:12:35 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 14:33:23 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 14:33:23 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -144,6 +144,35 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
         <category>impression 3d</category>
         
         <category>spaceapps</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Lancement réussi pour SpaceApps MTL</title>
+        <description>&lt;p&gt;TinkTank a pris en charge l’organisation de Space Apps à Montréal en 2014. Nous avons envahi le Planétarium Rio Tinto Alcan pour 2 jours de fun autour de l’exploration spatiale ! &lt;/p&gt;
+
+&lt;p&gt;Nous avions réuni une bonne quantité d’équipement pour permettre aux participants d’imaginer des choses les plus folles possibles. Une imprimante 3D, un Oculus Rift, des Arduinos, des Kinects, et même une paire de Google Glasses ! &lt;/p&gt;
+
+&lt;p&gt;Nous avons d’avord fait une soirée de lancement le vendredi soir chez OLAM, sur St Laurent pour commencer à former les équipes. &lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;
+&amp;lt;iframe width=&quot;500&quot; height=&quot;281&quot; src=&quot;http://player.vimeo.com/video/92353616 &quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Plus de photos &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.1459615027609122&amp;amp;type=1&quot;&gt;ici&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Merci à tous ceux qui ont participé, à Google et Dynavision pour leur confiance, au Planétarium pour leu engagement, à Ile Sans Fil pour le WIFI, à Montréal New Tech pour leur couverture de l’événement et à Portraits de Montréal pour leurs photos ! 
+A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 May 2014 00:00:00 -0400</pubDate>
+        <link>http://yourdomain.com/blog/spaceapps/international/spaceapps</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/spaceapps/international/spaceapps</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>spaceapps</category>
+        
+        <category>international</category>
         
       </item>
     
