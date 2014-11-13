@@ -5,8 +5,8 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 02 Nov 2014 22:25:26 -0500</pubDate>
-    <lastBuildDate>Sun, 02 Nov 2014 22:25:26 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 13:33:18 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 13:33:18 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -70,6 +70,33 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
       </item>
     
       <item>
+        <title>Blog: 2ème édition internationale pour FabJam</title>
+        <description>&lt;p&gt;La deuxième édition du FabJam a réuni plus de 31 fabspaces dans 17 pays différents pour une journée intense de créativité et de fabrication ! Après le thème ‘urban agriculture’ de 2013, les FabJammers ont travaillé sur le thème de ‘Mobiquity’, un mélange de &lt;em&gt;mobilité&lt;/em&gt; et &lt;em&gt;ubiquité&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;TinTank a coordonné la zone américaine, ce qui a permis d’accueillir de nombreux nouveaux fabspaces dans le projet, nottament au Brésil. 
+ &lt;!--more--&gt;
+FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspaces, etc.) à passer du DIY (&lt;em&gt;Do It Yourself&lt;/em&gt;) au DIT (&lt;em&gt;Do It Together&lt;/em&gt;) en créant des moments de partage entre les différents lieux. &lt;/p&gt;
+
+&lt;p&gt;En 2013, le site Wordpress qui avait été mis en place pour l’événement était arrivé au maximum de ses capacités et nous avons décidé cette année de développer une nouvelle plateforme pour documenter les projets. Grâce à notre sponsor Renault, nous avons pu travailler avec le &lt;em&gt;lead developer&lt;/em&gt; de Fablabs.io, basé à Barcelone pour profiter de son expérience. Cela nous a permis de multiplier par 2 le nombre de projets documentés. &lt;/p&gt;
+
+&lt;p&gt;Merci à tous ceux qui ont participé, à renault pour leur confiance, et à Justyna pour la coordination internationale. Nous nous sommes bien amusés et avons hâte de la prochaine édition ! &lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://yourdomain.com/blog/fabjam/international/fabrication%20num%C3%A9rique/fabjam</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/fabjam/international/fabrication%20num%C3%A9rique/fabjam</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>fabjam</category>
+        
+        <category>international</category>
+        
+        <category>fabrication numérique</category>
+        
+      </item>
+    
+      <item>
         <title>Event: FabJam</title>
         <description>&lt;p&gt;TinkTank a contribué à l’organisation de FabJam pour sa deuxième édition internationale, qui a réunit près de cinquante &lt;em&gt;fabspaces&lt;/em&gt; (hackerspaces, fablabs, makerspaces, etc.) pour une journée de créativité collective autour du thème de ‘Mobiquity’ (&lt;em&gt;mobility + ubiquity&lt;/em&gt;).&lt;/p&gt;
 
@@ -86,6 +113,33 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
         
         
         <category>event</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Coding Gouter, V2</title>
+        <description>&lt;p&gt;Nous avons profité de l’organisation de Space Apps Challenge au Planétarium Rio Tinto Alcan pour co-organiser la 2ème édition Montréalaise des &lt;a href=&quot;http://ils.sont.la/tags/coding-gouter&quot;&gt;‘coding gouters’&lt;/a&gt;. Ce concept, monté par Julien Dorra (un des fondateurs de Museomix) a pour objectif de familiariser les enfants de 7 à 12 ans (et leurs parents) au code, dans une ambiance décontractée. Ce n’est pas un cours, mais vraiment un atelier découverte. &lt;/p&gt;
+
+&lt;p&gt;Une dizaine d’enfants ont participé, accompagnés par leurs parents. &lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Pour cette fois ci, nous avions décidé de permettre aux enfants de modéliser une pièce en 3D (un casque d’astronaute) puis de l’imprimer sur place grâce à notre imprimante 3D. Nous leur avons présenté &lt;a href=&quot;http://openscad.org/&quot;&gt;openSCAD&lt;/a&gt;, un logiciel gratuit et open source permettant de faire de la modélisation grâce au code. &lt;/p&gt;
+
+&lt;p&gt;Merci à Manu (SAT) et à Philippe (Google Montréal) pour leur aide dans l’animation et à Hélène pour la coordination. &lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
+        <link>http://yourdomain.com/blog/code/enfants/impression%203d/codinggouter</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/code/enfants/impression%203d/codinggouter</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>code</category>
+        
+        <category>enfants</category>
+        
+        <category>impression 3d</category>
         
       </item>
     
@@ -107,108 +161,6 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
         
         
         <category>event</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Time to change your apps</title>
-        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
-
-&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/blog/wordpress/photoshop/time-to-change-your-apps</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/wordpress/photoshop/time-to-change-your-apps</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>wordpress</category>
-        
-        <category>photoshop</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Our new logo is here</title>
-        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
-
-&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/blog/web-design/development/our-new-logo-is-here</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/web-design/development/our-new-logo-is-here</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>web-design</category>
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Logo design contest starts now</title>
-        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
-
-&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>tips&amp;tricks</category>
-        
-        <category>code-snippets</category>
         
       </item>
     

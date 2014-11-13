@@ -6,7 +6,7 @@ author:
 categories:
 - event
 img: fabjam.png
-thumb: thumb02.jpg
+thumb: fabjam_thumb.jpg
 carousel:
 - fabjam1.jpg
 - fabjam2.jpg
