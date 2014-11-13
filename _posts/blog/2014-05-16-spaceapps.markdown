@@ -18,6 +18,7 @@ Nous avions réuni une bonne quantité d'équipement pour permettre aux particip
 Nous avons d'avord fait une soirée de lancement le vendredi soir chez OLAM, sur St Laurent pour commencer à former les équipes. 
 
  <!--more-->
+
 {% vimeo 92353616 %}
 
 Plus de photos [ici](https://www.facebook.com/media/set/?set=oa.1459615027609122&type=1). 
