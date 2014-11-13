@@ -9,7 +9,7 @@ url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /blog/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
@@ -98,16 +98,16 @@ principes:
 
 # Questions 
 questions: 
-  - titre: "Combien ça prend d'iPad ?"
-    reponse: "Ben, ça on peut pas vraiment le dire..."
+  - titre: "J'ai une idée de projet, est-ce que je peux vous en parler ?"
+    reponse: "Oui"
     n: 1
-  - titre: "encore quelques questions sur nous"
-    reponse: "Ben ça peut bien être une autre réponse. Qui pourrait être un peu plus longue que celle d'avant."
+  - titre: "Travaillez-vous avec des entreprises ?"
+    reponse: "Nous travaillons avec toutes les personnes / institutions / organisations qui portent les mêmes valeurs que nous, sans restrictions. Si c'est votre cas, n'hésitez pas à nous contacter pour en discuter."
     n: 2
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
-about_plus: "A mi-chemin entre un fablab, un living lab, un incubateur et un laboratoire de recherche, TinkTank accompagne l'émergence d'une nouvelle génération de projets culturels, basés sur le commun."
+about_plus: "A mi-chemin entre un fablab, un living lab et un incubateur, TinkTank accompagne l'émergence d'une nouvelle génération de projets technologiques culturels, basés sur le commun."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:

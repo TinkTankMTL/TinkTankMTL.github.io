@@ -5,8 +5,8 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 16:18:27 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 16:18:27 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 17:36:19 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 17:36:19 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/0xpGKsSyJZ4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 11 Nov 2014 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/blog/museomix/ministre</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/museomix/ministre</guid>
+        <link>http://yourdomain.com/blog/visite-surprise</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/visite-surprise</guid>
         
         
         <category>blog</category>
@@ -57,8 +57,8 @@
 &lt;p&gt;TinkTank est responsable de la coordination générale de l’événement, qui réunit plus de 200 personnes et plus de 30 entreprises différentes.  &lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Nov 2014 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/event/museomix</link>
-        <guid isPermaLink="true">http://yourdomain.com/event/museomix</guid>
+        <link>http://yourdomain.com/blog/museomix</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/museomix</guid>
         
         
         <category>event</category>
@@ -84,8 +84,8 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
 &lt;p&gt;Si le projet vous intéresse, que vous voulez contribuer et / ou l’expérimenter, n’hésitez pas à nous contacter.  &lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Oct 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/platform</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/platform</guid>
+        <link>http://yourdomain.com/blog/platform</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/platform</guid>
         
         
         <category>project</category>
@@ -105,8 +105,8 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
 &lt;p&gt;Merci à tous ceux qui ont participé, à renault pour leur confiance, et à Justyna pour la coordination internationale. Nous nous sommes bien amusés et avons hâte de la prochaine édition ! &lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://yourdomain.com/blog/fabjam/international/fabrication%20num%C3%A9rique/fabjam</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/fabjam/international/fabrication%20num%C3%A9rique/fabjam</guid>
+        <link>http://yourdomain.com/blog/fabjam</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/fabjam</guid>
         
         
         <category>blog</category>
@@ -131,8 +131,8 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
 
 </description>
         <pubDate>Sat, 14 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://yourdomain.com/event/fabjam</link>
-        <guid isPermaLink="true">http://yourdomain.com/event/fabjam</guid>
+        <link>http://yourdomain.com/blog/fabjam</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/fabjam</guid>
         
         
         <category>event</category>
@@ -154,8 +154,8 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
 &lt;p&gt;Merci à Manu (SAT) et à Philippe (Google Montréal) pour leur aide dans l’animation et à Hélène pour la coordination. &lt;/p&gt;
 </description>
         <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
-        <link>http://yourdomain.com/blog/code/enfants/impression%203d/spaceapps/codinggouter</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/code/enfants/impression%203d/spaceapps/codinggouter</guid>
+        <link>http://yourdomain.com/blog/codinggouter</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/codinggouter</guid>
         
         
         <category>blog</category>
@@ -194,8 +194,8 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
 A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
 </description>
         <pubDate>Fri, 16 May 2014 00:00:00 -0400</pubDate>
-        <link>http://yourdomain.com/blog/spaceapps/international/spaceapps</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/spaceapps/international/spaceapps</guid>
+        <link>http://yourdomain.com/blog/spaceapps</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/spaceapps</guid>
         
         
         <category>blog</category>
@@ -219,8 +219,8 @@ A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
 &lt;p&gt;TinkTank est l’organisateur de l’édition Montréalaise du Space Apps Challenge.&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 May 2014 00:00:00 -0400</pubDate>
-        <link>http://yourdomain.com/event/spaceapps</link>
-        <guid isPermaLink="true">http://yourdomain.com/event/spaceapps</guid>
+        <link>http://yourdomain.com/blog/spaceapps</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/spaceapps</guid>
         
         
         <category>event</category>
