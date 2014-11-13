@@ -5,8 +5,8 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 15:47:31 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 15:47:31 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 15:52:11 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 15:52:11 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -157,11 +157,17 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
 
 &lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
 
+&lt;p&gt;Voilà deux vidéos qui montrent l’ambiance de l’événement : &lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/92189174&quot; width=&quot;960&quot; height=&quot;540&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Et celle faite par &lt;a href=&quot;http://portraitsdemontreal.com/&quot;&gt;Portraits de Montréal&lt;/a&gt; :&lt;/p&gt;
+
 &lt;iframe src=&quot;//player.vimeo.com/video/92353616&quot; width=&quot;960&quot; height=&quot;540&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Plus de photos &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.1459615027609122&amp;amp;type=1&quot;&gt;ici&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;Merci à tous ceux qui ont participé, à Google et Dynavision pour leur confiance, au Planétarium pour leu engagement, à Ile Sans Fil pour le WIFI, à Montréal New Tech pour leur couverture de l’événement et à Portraits de Montréal pour leurs photos ! 
+&lt;p&gt;Merci à tous ceux qui ont participé, à Google et Dynavision pour leur confiance, au Planétarium pour leur engagement, à Ile Sans Fil pour le WIFI, à Montréal New Tech pour leur couverture de l’événement et à Portraits de Montréal pour leurs photos ! 
 A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
 </description>
         <pubDate>Fri, 16 May 2014 00:00:00 -0400</pubDate>
