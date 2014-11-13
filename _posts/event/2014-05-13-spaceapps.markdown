@@ -6,7 +6,7 @@ author:
 categories:
 - event
 img: space-apps.png
-thumb: thumb02.jpg
+thumb: spaceapps_thumb.jpg
 carousel:
 - spaceapps1.jpg
 - spaceapps2.jpg
@@ -17,6 +17,9 @@ place: partout dans le monde
 links: 
 - http://spaceappschallenge.org
 - http://spaceappsfrancophone.tumblr.com 
+- https://2014.spaceappschallenge.org/location/montreal/ 
+postcategory:
+- spaceapps
 short: Space est un évènement annuel, organisé par la NASA, qui invite de amateurs de l'espace de tous profils à concevoir ensemble des applications technologiques.   
 credits: Portraits de Montréal 
 ---

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "2ème édition internationale pour FabJam"
+date: 2014-06-20
+author: Arthur
+categories:
+- blog
+- fabjam
+- international
+- fabrication numérique
+img: fabjam2.jpg
+thumb: thumb03.jpg
+---
+
+La deuxième édition du FabJam a réuni plus de 31 fabspaces dans 17 pays différents pour une journée intense de créativité et de fabrication ! Après le thème 'urban agriculture' de 2013, les FabJammers ont travaillé sur le thème de 'Mobiquity', un mélange de *mobilité* et *ubiquité*. 
+
+TinTank a coordonné la zone américaine, ce qui a permis d'accueillir de nombreux nouveaux fabspaces dans le projet, nottament au Brésil. 
+ <!--more-->
+FabJam a pour objectif d'aider les fabspaces (fablabs, makerspaces, hackerspaces, etc.) à passer du DIY (*Do It Yourself*) au DIT (*Do It Together*) en créant des moments de partage entre les différents lieux. 
+
+En 2013, le site Wordpress qui avait été mis en place pour l'événement était arrivé au maximum de ses capacités et nous avons décidé cette année de développer une nouvelle plateforme pour documenter les projets. Grâce à notre sponsor Renault, nous avons pu travailler avec le *lead developer* de Fablabs.io, basé à Barcelone pour profiter de son expérience. Cela nous a permis de multiplier par 2 le nombre de projets documentés. 
+
+Merci à tous ceux qui ont participé, à renault pour leur confiance, et à Justyna pour la coordination internationale. Nous nous sommes bien amusés et avons hâte de la prochaine édition ! 

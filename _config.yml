@@ -10,7 +10,7 @@ url: "http://yourdomain.com"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
-excerpt_separator: <!-- en savoir plus --> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
   primary: "#C7C7C7" 
@@ -48,7 +48,7 @@ tel: +438 398 5784
 members:
   - name: Arthur Schmitt 
     position: Lead prototypage
-    text: "Ingénieur (ENSAM, Imperial College) et designer (RCA), il est passionné par les nouvelles technologies et les pratiques collaboratives. Installé depuis un an à Montréal, il a auparavant participé à l’émergence des fablabs en France, notamment en contribuant à l'ouverture du premier fablab dans le centre de Paris."
+    text: "Ingénieur (ENSAM, Imperial College) et designer (RCA), Arthur est passionné par les nouvelles technologies et les pratiques collaboratives. Installé depuis un an à Montréal, il a auparavant participé à l’émergence des fablabs en France, notamment en contribuant à l'ouverture du premier fablab dans le centre de Paris."
     img: arthur_carre.jpg
     social:
       - title: envelope #use for email address
@@ -107,7 +107,7 @@ questions:
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
-about_plus: "A mi-chemin entre un fablab, un incubateur et un laboratoire de recherche, TinkTank accompagne l'émergence d'une nouvelle génération de projets culturels, basés sur le commun."
+about_plus: "A mi-chemin entre un fablab, un living lab, un incubateur et un laboratoire de recherche, TinkTank accompagne l'émergence d'une nouvelle génération de projets culturels, basés sur le commun."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:

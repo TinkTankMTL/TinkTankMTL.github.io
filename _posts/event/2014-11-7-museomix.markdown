@@ -6,7 +6,7 @@ author:
 categories:
 - event
 img: museomix.png
-thumb: thumb02.jpg
+thumb: museomix_thumb.jpg
 carousel:
 - museomix1.jpg
 - museomix2.jpg
