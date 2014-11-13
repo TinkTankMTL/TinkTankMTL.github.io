@@ -19,7 +19,7 @@ Nous avons d'avord fait une soirée de lancement le vendredi soir chez OLAM, sur
 
  <!--more-->
 
-{% vimeo 92353616 %}
+<iframe src="//player.vimeo.com/video/92353616" width="960" height="540" frameborder="0" allowfullscreen></iframe>
 
 Plus de photos [ici](https://www.facebook.com/media/set/?set=oa.1459615027609122&type=1). 
 
