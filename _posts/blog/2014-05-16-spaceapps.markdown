@@ -19,9 +19,15 @@ Nous avons d'avord fait une soirée de lancement le vendredi soir chez OLAM, sur
 
  <!--more-->
 
+Voilà deux vidéos qui montrent l'ambiance de l'événement : 
+
+<iframe src="//player.vimeo.com/video/92189174" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Et celle faite par [Portraits de Montréal](http://portraitsdemontreal.com/) :
+
 <iframe src="//player.vimeo.com/video/92353616" width="960" height="540" frameborder="0" allowfullscreen></iframe>
 
 Plus de photos [ici](https://www.facebook.com/media/set/?set=oa.1459615027609122&type=1). 
 
-Merci à tous ceux qui ont participé, à Google et Dynavision pour leur confiance, au Planétarium pour leu engagement, à Ile Sans Fil pour le WIFI, à Montréal New Tech pour leur couverture de l'événement et à Portraits de Montréal pour leurs photos ! 
+Merci à tous ceux qui ont participé, à Google et Dynavision pour leur confiance, au Planétarium pour leur engagement, à Ile Sans Fil pour le WIFI, à Montréal New Tech pour leur couverture de l'événement et à Portraits de Montréal pour leurs photos ! 
 A l'année prochaine pour une nouvelle édition ! 
