@@ -20,4 +20,6 @@ FabJam a pour objectif d'aider les fabspaces (fablabs, makerspaces, hackerspaces
 
 En 2013, le site Wordpress qui avait été mis en place pour l'événement était arrivé au maximum de ses capacités et nous avons décidé cette année de développer une nouvelle plateforme pour documenter les projets. Grâce à notre sponsor Renault, nous avons pu travailler avec le *lead developer* de Fablabs.io, basé à Barcelone pour profiter de son expérience. Cela nous a permis de multiplier par 2 le nombre de projets documentés. 
 
+<iframe src="//player.vimeo.com/video/98759457" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Merci à tous ceux qui ont participé, à renault pour leur confiance, et à Justyna pour la coordination internationale. Nous nous sommes bien amusés et avons hâte de la prochaine édition ! 
