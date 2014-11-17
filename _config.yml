@@ -9,7 +9,7 @@ url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:title
+permalink: /:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
@@ -38,7 +38,7 @@ address:
     - 7255 Alexandra, suite 203
     - H2R 2Y9, Montréal,
     - QC, Canada.
-email: ping@tinktankg.org
+email: ping@tinktankg.club
 tel: +438 398 5784
 
 
