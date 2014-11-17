@@ -5,9 +5,57 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://tinktank.club/</link>
     <atom:link href="http://tinktank.club/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Nov 2014 10:37:18 -0500</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 10:37:18 -0500</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2014 13:29:45 -0500</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2014 13:29:45 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Blog: Les ingrédients magiques de Museomix</title>
+        <description>&lt;p&gt;Il s’est réellement passé quelque chose pendant les 3 jours de Museomix au Musée des beaux-arts. Tout ceux qui y étaient pourront vous le dire. Mais quoi ? Comment ? Qu’est-ce qui fait de Museomix un événement si spécial ? C’est ce que nous avons voulu analyser. &lt;/p&gt;
+
+&lt;p&gt;Il y a bien sûr le format court et intense, les équipes pluri-disciplinaires… Mais cela est commun à (presque) tous les hackathons. Il faut donc aller chercher plus loin… &lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Nous pensons que celà est dû à 5 principes, qui peuvent être appliqués bien au delà des événements courts : &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;un cadre exceptionnel donne des résultats exceptionnels &lt;/li&gt;
+  &lt;li&gt;la compétition n’est pas un facteur de motivation &lt;/li&gt;
+  &lt;li&gt;créer des zones de permission &lt;/li&gt;
+  &lt;li&gt;réconcilier ‘la tête et la main’&lt;/li&gt;
+  &lt;li&gt;encourager la créativité plutôt que la ‘résolution de problème’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;un-cadre-exceptionnel-donne-des-rsultats-exceptionnels&quot;&gt;Un cadre exceptionnel donne des résultats exceptionnels&lt;/h3&gt;
+&lt;p&gt;Il n’y a pas de doute, travailler au coeur d’un musée - et un musée prestigieux comme le Musée des beaux-arts - contribue déjà à créer déjà un cadre exceptionnel. Mais nous avons mis beaucoup d’énergie aussi cette année, à transformer les espaces de travail pour les rendre beaux. Les coussins FatBoy, le vélo-café Pista, l’aménagement de la Bébelle Box, tout cela a ajouté à la beauté du cadre. &lt;/p&gt;
+
+&lt;h3 id=&quot;la-comptition-nest-pas-un-facteur-de-motivation&quot;&gt;La compétition n’est pas un facteur de motivation&lt;/h3&gt;
+&lt;p&gt;Ce point est peut-être la plus grosse rupture avec les formats hackathons ‘classiques’. Depuis son origine en 2011 à Paris, Museomix s’est positionné comme un événement sans gagnant. Pas besoin de ‘carotte’ pour que les gens donnent le meilleur d’eux-mêmes. Cela a été prouvé à chaque édition de Museomix, et cette année encore. Cela permet d’encourager l’entraide entre les équipes et, plus généralement, de créer une atmosphère de collaboration. &lt;/p&gt;
+
+&lt;h3 id=&quot;crer-des-zones-de-permission&quot;&gt;Créer des zones de permission&lt;/h3&gt;
+&lt;p&gt;Nous avons mis une grande énergie dans le deisgn des ‘terrains de jeux’, les thèmes mis au point avec le musée. L’idée est d’offrir un cadre, à l’image d’une &lt;em&gt;sandbox&lt;/em&gt; dans le développement logiciel. Une &lt;em&gt;sandbox&lt;/em&gt;, ou un bac à sable, est un espace protégé où on peut tester des logiciels dans leur version non finale sans qu’ils influencent ‘les espaces réels’. Un &lt;em&gt;sandbox game&lt;/em&gt; désigne aussi un jeu (comme Minecraft) où le joueur est libre de construire ce qu’il veut (dans la limite des règles qui ont été fixées par les concepteurs du jeu). Bref, ce sont ces zones de permission qui permettent aux participants d’être créatifs. &lt;/p&gt;
+
+&lt;h3 id=&quot;rconcilier-la-tte-et-la-main&quot;&gt;Réconcilier ‘la tête et la main’&lt;/h3&gt;
+&lt;p&gt;C’est ce que propose Richard Sennett dans &lt;a href=&quot;http://fr.wikipedia.org/wiki/Richard_Sennett&quot;&gt;ce que sait la main&lt;/a&gt; et c’est au coeur de la volonté de Museomix. Naturellement, les équipes, au moment où elles se forment, ont envie de détailler leur projet dans tous ses aspects avant de se mettre au travail. Mais ces discussions peuvent durer des heures, sans résultat concrêt. C’est pourquoi le design de l’événement force les participants à passer très vite au prototypage. C’est en travaillant sur leur prototype qu’ils vont résoudre des problèmes, répondre aux questions qu’ils se posent : construire aide à penser. &lt;/p&gt;
+
+&lt;h3 id=&quot;encourager-la-crativit-plutt-que-la-rsolution-de-problme&quot;&gt;Encourager la créativité plutôt que la ‘résolution de problème’&lt;/h3&gt;
+&lt;p&gt;C’est un aspect qui s’améliore d’année en année dans Museomix. Cette année, nous avons proposé des ‘thèmes’, mais nous avons fait attention à ce qu’aucun de ceux-là ne soit lié à des problèmes du musée. Soyons réalistes : en 2 jours, il est difficile (impossible ?) de résoudre des problème complexes. En abordant les projets par le côté ‘problème’, on finit toujours par se heurter à des réalités qui vont rendre impossible son évolution. Mais en se laissant la place de rêver, on abouti à des projets beaucoup plus ambitieux et, pour certains, plus appropriés. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Crédits photo : Portraits de Montréal - équipe ‘la vie secrète des oeuvres’&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://tinktank.club/la-magie-Museomix</link>
+        <guid isPermaLink="true">http://tinktank.club/la-magie-Museomix</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>museomix</category>
+        
+        <category>analyse</category>
+        
+      </item>
     
       <item>
         <title>Blog: Visite surprise</title>
@@ -52,6 +100,8 @@
 &lt;p&gt;Derniers ajustements, installations dans les salles, ouverture au public, plénière de fin. &lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/9GwgOvo29GM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Crédits photo : Portraits de Montréal&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Nov 2014 00:00:00 -0500</pubDate>
         <link>http://tinktank.club/Museomix-3-jours</link>
@@ -265,27 +315,6 @@ A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
         <category>spaceapps</category>
         
         <category>international</category>
-        
-      </item>
-    
-      <item>
-        <title>Event: International Space Apps Challenge</title>
-        <description>&lt;p&gt;Space Apps Challenge est un &lt;em&gt;hackathon&lt;/em&gt; international de deux jours où des équipes de techniciens, scientifiques, designers, artistes, éducateurs, entrepreneurs, développeurs, et étudiants collaborent à travers le monde, en utilisant les données publiques afin de concevoir des solutions innovantes à des défis globaux en matière de développement logiciel, science citoyenne, hardware ou visualisation de données. &lt;/p&gt;
-
-&lt;p&gt;Pour l’événement de 2013, plus de 9000 citoyens dans 44 pays et 83 villes du monde ont collaboré ensemble et avec la NASA pour le plus grand hackathon de l’histoire, pour créer 770 solutions!&lt;/p&gt;
-
-&lt;p&gt;Les équipes Space Apps peuvent créer leur projet parmi une large sélection de problèmes significatifs et importants identifiés par la NASA. Des défis sont organisés selon quatre catégories - logiciel, hardware, visualisation de donnée et science citoyenne. &lt;/p&gt;
-
-&lt;p&gt;Les challenges de l’évènement 2014 étaient organisés autour de 5 thèmes: la robotique, la technologie spatiale, les vols spatiaux habités, la surveillance de la Terre et les astéroïdes. En plus de ça, des challenges ‘donnée’ et ‘éducation’ étaient proposés dans chacun de ces sujets. &lt;/p&gt;
-
-&lt;p&gt;TinkTank est l’organisateur de l’édition Montréalaise du Space Apps Challenge.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 May 2014 00:00:00 -0400</pubDate>
-        <link>http://tinktank.club/spaceapps</link>
-        <guid isPermaLink="true">http://tinktank.club/spaceapps</guid>
-        
-        
-        <category>event</category>
         
       </item>
     

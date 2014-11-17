@@ -29,3 +29,5 @@ Travail en équipes et premiers tests.
 Derniers ajustements, installations dans les salles, ouverture au public, plénière de fin. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/9GwgOvo29GM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+*Crédits photo : Portraits de Montréal*
