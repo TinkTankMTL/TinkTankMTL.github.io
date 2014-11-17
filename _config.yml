@@ -5,7 +5,7 @@ title: TINKTANK
 description: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://tinktank.club"
 
 # Build settings
 markdown: kramdown
@@ -38,7 +38,7 @@ address:
     - 7255 Alexandra, suite 203
     - H2R 2Y9, Montréal,
     - QC, Canada.
-email: ping@tinktankg.club
+email: ping@tinktank.club
 tel: +438 398 5784
 
 
