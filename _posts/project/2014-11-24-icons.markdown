@@ -1,0 +1,22 @@
+---
+layout: project
+title:  "Iconothèque"
+date:   2014-11-24 16:54:46
+author: 
+categories:
+- project
+img: icons.jpg
+thumb: 
+carousel:
+- icons1.jpg
+partners: 
+- name: Museomix
+  link: http://museomix.org 
+website: http://icons.tinktank.club
+fork: https://github.com/TinkTankMTL/icon-set
+---
+###Objectif
+Nous voulons proposer une collection d'icones pertinentes, graphiquement coordonnées, belles et gratuites. C'est un projet ouvert et collaboratif. Quiconque a envie de contribuer est amené à le faire. Nous imaginons aussi que certaines institutions pourraient commanditer une série d'icones propres à leur domaine. Dans ce cas, nous coordonnerons la production des icones, puis les ajouterons au site. Celles-ci seront téléchargeables au même titre que les autres. 
+
+###Historique
+Pour l'édition Montréalaise de Museomix 2014 que nous avons coordonnée, nous avons créé un certain nombre d'icones (et retravaillé d'autres, basées sur les éditions précédentes). Nous avons eu beaucoup de compliments et avons voulu les rendre disponibles. De fil en aiguille, nous avons conçu un site, puis la liste d'icones s'est allongée...  
