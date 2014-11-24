@@ -5,9 +5,26 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://tinktank.club/</link>
     <atom:link href="http://tinktank.club/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Nov 2014 13:49:16 -0500</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 13:49:16 -0500</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2014 11:43:36 -0500</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2014 11:43:36 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Project: Iconothèque</title>
+        <description>&lt;h3 id=&quot;objectif&quot;&gt;Objectif&lt;/h3&gt;
+&lt;p&gt;Nous voulons proposer une collection d’icones pertinentes, graphiquement coordonnées, belles et gratuites. C’est un projet ouvert et collaboratif. Quiconque a envie de contribuer est amené à le faire. Nous imaginons aussi que certaines institutions pourraient commanditer une série d’icones propres à leur domaine. Dans ce cas, nous coordonnerons la production des icones, puis les ajouterons au site. Celles-ci seront téléchargeables au même titre que les autres. &lt;/p&gt;
+
+&lt;h3 id=&quot;historique&quot;&gt;Historique&lt;/h3&gt;
+&lt;p&gt;Pour l’édition Montréalaise de Museomix 2014 que nous avons coordonnée, nous avons créé un certain nombre d’icones (et retravaillé d’autres, basées sur les éditions précédentes). Nous avons eu beaucoup de compliments et avons voulu les rendre disponibles. De fil en aiguille, nous avons conçu un site, puis la liste d’icones s’est allongée… Et voilà le résultat ! &lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Nov 2014 11:54:46 -0500</pubDate>
+        <link>http://tinktank.club/icons</link>
+        <guid isPermaLink="true">http://tinktank.club/icons</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Blog: Les ingrédients magiques de Museomix</title>
@@ -20,27 +37,31 @@
 &lt;p&gt;Nous pensons que celà est dû à 5 principes, qui peuvent être appliqués bien au delà des événements courts : &lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;un cadre exceptionnel donne des résultats exceptionnels &lt;/li&gt;
-  &lt;li&gt;la compétition n’est pas un facteur de motivation &lt;/li&gt;
-  &lt;li&gt;créer des zones de permission &lt;/li&gt;
-  &lt;li&gt;réconcilier ‘la tête et la main’&lt;/li&gt;
-  &lt;li&gt;encourager la créativité plutôt que la ‘résolution de problème’&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;un cadre exceptionnel donne des résultats exceptionnels&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;la compétition n’est pas un facteur de motivation&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;définir des zones de permission&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;réconcilier ‘la tête et la main’&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;encourager la créativité plutôt que la ‘résolution de problème’&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;un-cadre-exceptionnel-donne-des-rsultats-exceptionnels&quot;&gt;Un cadre exceptionnel donne des résultats exceptionnels&lt;/h3&gt;
-&lt;p&gt;Il n’y a pas de doute, travailler au coeur d’un musée - et un musée prestigieux comme le Musée des beaux-arts - contribue déjà à créer déjà un cadre exceptionnel. Mais nous avons mis beaucoup d’énergie aussi cette année, à transformer les espaces de travail pour les rendre beaux. Les coussins FatBoy, le vélo-café Pista, l’aménagement de la Bébelle Box, tout cela a ajouté à la beauté du cadre. &lt;/p&gt;
+&lt;p&gt;Il n’y a pas de doute, travailler au coeur d’un musée - et un musée prestigieux comme le Musée des beaux-arts - contribue déjà à créer déjà un cadre exceptionnel. Mais nous avons mis beaucoup d’énergie aussi cette année, à transformer les espaces de travail pour les rendre spéciaux. Les coussins FatBoy, le vélo-café &lt;a href=&quot;https://www.facebook.com/cafepista&quot;&gt;Pista&lt;/a&gt;, l’aménagement de la Bébelle Box, tout cela a ajouté à la beauté du cadre. Nous avons aussi apporté un grand soin à la nourriture servie pendant les 3 jours : soupes, légumes, etc. Le traiteur &lt;a href=&quot;http://www.soupesoup.com/&quot;&gt;SoupeSoup&lt;/a&gt; a fait l’unanimité… &lt;/p&gt;
 
 &lt;h3 id=&quot;la-comptition-nest-pas-un-facteur-de-motivation&quot;&gt;La compétition n’est pas un facteur de motivation&lt;/h3&gt;
-&lt;p&gt;Ce point est peut-être la plus grosse rupture avec les formats hackathons ‘classiques’. Depuis son origine en 2011 à Paris, Museomix s’est positionné comme un événement sans gagnant. Pas besoin de ‘carotte’ pour que les gens donnent le meilleur d’eux-mêmes. Cela a été prouvé à chaque édition de Museomix, et cette année encore. Cela permet d’encourager l’entraide entre les équipes et, plus généralement, de créer une atmosphère de collaboration. &lt;/p&gt;
+&lt;p&gt;Ce point est peut-être la plus grosse rupture avec les formats hackathons ‘classiques’. Depuis son origine en 2011 à Paris, Museomix s’est positionné comme un événement sans gagnant. Pas besoin de ‘carotte’ pour que les gens donnent le meilleur d’eux-mêmes. Cela a été prouvé de nouveau à chaque édition de Museomix, et cette année encore. Cela permet d’encourager l’entraide entre les équipes et, plus généralement, de créer une atmosphère de collaboration, plutôt que de compétition. Assurément, chaque année, environ 30% des prototypes trouvent une vie après Museomix, dans le musée hôte ou ailleurs, mais ils ne sont pas pour autant les prototypes ‘gagnants’…  &lt;/p&gt;
 
-&lt;h3 id=&quot;crer-des-zones-de-permission&quot;&gt;Créer des zones de permission&lt;/h3&gt;
-&lt;p&gt;Nous avons mis une grande énergie dans le deisgn des ‘terrains de jeux’, les thèmes mis au point avec le musée. L’idée est d’offrir un cadre, à l’image d’une &lt;em&gt;sandbox&lt;/em&gt; dans le développement logiciel. Une &lt;em&gt;sandbox&lt;/em&gt;, ou un bac à sable, est un espace protégé où on peut tester des logiciels dans leur version non finale sans qu’ils influencent ‘les espaces réels’. Un &lt;em&gt;sandbox game&lt;/em&gt; désigne aussi un jeu (comme Minecraft) où le joueur est libre de construire ce qu’il veut (dans la limite des règles qui ont été fixées par les concepteurs du jeu). Bref, ce sont ces zones de permission qui permettent aux participants d’être créatifs. &lt;/p&gt;
+&lt;h3 id=&quot;dfinir-des-zones-de-permission&quot;&gt;Définir des zones de permission&lt;/h3&gt;
+&lt;p&gt;Nous avons mis une grande énergie dans le deisgn des ‘terrains de jeux’, les thèmes de travail, mis au point avec le musée et proposés aux participants à leur arrivée. Ils étaient là, non pour guider les équipes vers des projets, mais pour servir de &lt;em&gt;conversation-starters&lt;/em&gt;. C’est un dur équilibre à trouver entre des projets ‘libres’ et des projets ‘pré-définis’. &lt;/p&gt;
+
+&lt;p&gt;L’idée est d’offrir un cadre, à l’image d’une &lt;em&gt;sandbox&lt;/em&gt; dans le développement logiciel. Une &lt;em&gt;sandbox&lt;/em&gt;, ou un bac à sable, est un espace protégé où on peut tester des logiciels dans leur version non finale sans qu’ils influencent ‘les espaces réels’. Un &lt;em&gt;sandbox game&lt;/em&gt; désigne aussi un jeu (comme Minecraft) où le joueur est libre de construire ce qu’il veut (dans la limite des règles qui ont été fixées par les concepteurs du jeu). &lt;/p&gt;
+
+&lt;p&gt;Ce sont ces zones de permission (elles-mêmes très définies) qui permettent aux participants d’être créatifs. &lt;/p&gt;
 
 &lt;h3 id=&quot;rconcilier-la-tte-et-la-main&quot;&gt;Réconcilier ‘la tête et la main’&lt;/h3&gt;
-&lt;p&gt;C’est ce que propose Richard Sennett dans &lt;a href=&quot;http://fr.wikipedia.org/wiki/Richard_Sennett&quot;&gt;ce que sait la main&lt;/a&gt; et c’est au coeur de la volonté de Museomix. Naturellement, les équipes, au moment où elles se forment, ont envie de détailler leur projet dans tous ses aspects avant de se mettre au travail. Mais ces discussions peuvent durer des heures, sans résultat concrêt. C’est pourquoi le design de l’événement force les participants à passer très vite au prototypage. C’est en travaillant sur leur prototype qu’ils vont résoudre des problèmes, répondre aux questions qu’ils se posent : construire aide à penser. &lt;/p&gt;
+&lt;p&gt;C’est ce que propose Richard Sennett dans &lt;a href=&quot;http://fr.wikipedia.org/wiki/Richard_Sennett&quot;&gt;ce que sait la main&lt;/a&gt; et c’est au coeur de la volonté de Museomix. Naturellement, les équipes, au moment où elles se forment, ont envie de détailler leur projet dans tous ses aspects avant de se mettre au travail. Mais ces discussions peuvent durer des heures, sans résultat concrêt. C’est pourquoi le design de l’événement force les participants à passer très vite au prototypage. C’est en travaillant sur leur prototype qu’ils vont résoudre des problèmes, répondre aux questions qu’ils se posent. Bref, &lt;strong&gt;construire aide à penser.&lt;/strong&gt; &lt;/p&gt;
 
 &lt;h3 id=&quot;encourager-la-crativit-plutt-que-la-rsolution-de-problme&quot;&gt;Encourager la créativité plutôt que la ‘résolution de problème’&lt;/h3&gt;
-&lt;p&gt;C’est un aspect qui s’améliore d’année en année dans Museomix. Cette année, nous avons proposé des ‘thèmes’, mais nous avons fait attention à ce qu’aucun de ceux-là ne soit lié à des problèmes du musée. Soyons réalistes : en 2 jours, il est difficile (impossible ?) de résoudre des problème complexes. En abordant les projets par le côté ‘problème’, on finit toujours par se heurter à des réalités qui vont rendre impossible son évolution. Mais en se laissant la place de rêver, on abouti à des projets beaucoup plus ambitieux et, pour certains, plus appropriés. &lt;/p&gt;
+&lt;p&gt;C’est un aspect qui s’améliore d’année en année dans Museomix. Cette année, nous avons proposé des ‘thèmes’, mais nous avons fait attention à ce qu’aucun de ceux-là ne soit lié à des problèmes du musée. Soyons réalistes : en 2 jours, il est difficile (impossible ?) de résoudre des problème complexes (et les participants ne sont pas là pour ça). En abordant les projets par le côté ‘problème’, on finit toujours par se heurter à des réalités qui vont rendre impossible son évolution. Mais en se laissant la place de rêver, on abouti à des projets beaucoup plus ambitieux et, finalement, plus pertinents. &lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Crédits photo : Portraits de Montréal - équipe ‘la vie secrète des oeuvres’&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -152,18 +173,18 @@
       <item>
         <title>Project: Plateforme de documentation de projets collaboratifs</title>
         <description>&lt;h4 id=&quot;un-outil-de-documentation-pour-museomix&quot;&gt;Un outil de documentation pour Museomix&lt;/h4&gt;
-&lt;p&gt;Depuis l’origine de Museomix, en 2011 à Paris, la volonté a été de documenter les projets réalisés par les participants. Mais ceci a été fait de manière plus ou moins réussie, en essayant pluesieurs méthodes, successivement… A Montréal, nous avons finalement proposé au reste de la communauté internationale de développer une plateforme spécifique. Elle est testée localement à Montréal pour l’édition de 2014, avec l’ambition de servir les projets internationaux en 2015. &lt;/p&gt;
+&lt;p&gt;Depuis l’origine de Museomix, en 2011 à Paris, la volonté a été de documenter les projets réalisés par les participants. Mais ceci a été fait de manière plus ou moins réussie, en essayant plusieurs méthodes, successivement… À Montréal, nous avons finalement proposé au reste de la communauté internationale de développer une plateforme spécifique. Elle est testée localement à Montréal pour l’édition de 2014, avec l’ambition de servir les projets internationaux en 2015. &lt;/p&gt;
 
-&lt;h4 id=&quot;fonctionalits&quot;&gt;Fonctionalités&lt;/h4&gt;
+&lt;h4 id=&quot;fonctionnalits&quot;&gt;Fonctionnalités&lt;/h4&gt;
 &lt;p&gt;La plateforme est développée en Node.js, ce qui lui permet d’être réactive en temps réel. 
-Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel is peuvent inviter d’autre utilisateurs. Les projets sont ensuite découpés en deux parties principales (description et instructions), chacune permettant d’ajouter du texte, des images, vidéos et fichiers. &lt;/p&gt;
+Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel ils peuvent inviter d’autres utilisateurs. Les projets sont ensuite découpés en deux parties principales (description et instructions), chacune permettant d’ajouter du texte, des images, vidéos et fichiers. &lt;/p&gt;
 
 &lt;h4 id=&quot;et-aprs-&quot;&gt;Et après ?&lt;/h4&gt;
-&lt;p&gt;Nous voulons que la plateforme permette aux projets de vivre au delà de l’événement, par exemple en permettant aux porteurs de projets de poster des ‘updates’. 
-Nous voulons aussi tester la plateforme sur d’autres événements que Museomix et sur d’autre sujets. &lt;/p&gt;
+&lt;p&gt;Nous voulons que la plateforme permette aux projets de vivre au-delà de l’événement, par exemple en permettant aux porteurs de projets de poster des ‘updates’. 
+Nous voulons aussi tester la plateforme sur d’autres événements que Museomix et sur d’autres sujets. &lt;/p&gt;
 
 &lt;h4 id=&quot;un-manque--combler-&quot;&gt;Un manque à combler ?&lt;/h4&gt;
-&lt;p&gt;Aujourd’hui, aucune plateforme ne permet de documenter des projets collaboratifs, non-finis, qui mélangent &lt;em&gt;hardware&lt;/em&gt; et &lt;em&gt;software&lt;/em&gt;. C’est l’objectif que nous nous donnons avec cette plateforme. &lt;/p&gt;
+&lt;p&gt;Aujourd’hui, aucune plateforme ne permet de documenter des projets collaboratifs, non finis, qui mélangent &lt;em&gt;hardware&lt;/em&gt; et &lt;em&gt;software&lt;/em&gt;. C’est l’objectif que nous nous donnons avec cette plateforme. &lt;/p&gt;
 
 &lt;p&gt;Si le projet vous intéresse, que vous voulez contribuer et / ou l’expérimenter, n’hésitez pas à nous contacter.  &lt;/p&gt;
 </description>
@@ -279,42 +300,6 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
         <category>impression 3d</category>
         
         <category>spaceapps</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Lancement réussi pour SpaceApps MTL</title>
-        <description>&lt;p&gt;TinkTank a pris en charge l’organisation de Space Apps à Montréal en 2014. Nous avons envahi le Planétarium Rio Tinto Alcan pour 2 jours de fun autour de l’exploration spatiale ! &lt;/p&gt;
-
-&lt;p&gt;Nous avions réuni une bonne quantité d’équipement pour permettre aux participants d’imaginer des choses les plus folles possibles. Une imprimante 3D, un Oculus Rift, des Arduinos, des Kinects, et même une paire de Google Glasses ! &lt;/p&gt;
-
-&lt;p&gt;Nous avons d’avord fait une soirée de lancement le vendredi soir chez OLAM, sur St Laurent pour commencer à former les équipes. &lt;/p&gt;
-
-&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Voilà deux vidéos qui montrent l’ambiance de l’événement : &lt;/p&gt;
-
-&lt;iframe src=&quot;//player.vimeo.com/video/92189174&quot; width=&quot;960&quot; height=&quot;540&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Et celle faite par &lt;a href=&quot;http://portraitsdemontreal.com/&quot;&gt;Portraits de Montréal&lt;/a&gt; :&lt;/p&gt;
-
-&lt;iframe src=&quot;//player.vimeo.com/video/92353616&quot; width=&quot;960&quot; height=&quot;540&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Plus de photos &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.1459615027609122&amp;amp;type=1&quot;&gt;ici&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;Merci à tous ceux qui ont participé, à Google et Dynavision pour leur confiance, au Planétarium pour leur engagement, à Ile Sans Fil pour le WIFI, à Montréal New Tech pour leur couverture de l’événement et à Portraits de Montréal pour leurs photos ! 
-A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
-</description>
-        <pubDate>Fri, 16 May 2014 00:00:00 -0400</pubDate>
-        <link>http://tinktank.club/spaceapps</link>
-        <guid isPermaLink="true">http://tinktank.club/spaceapps</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>spaceapps</category>
-        
-        <category>international</category>
         
       </item>
     
