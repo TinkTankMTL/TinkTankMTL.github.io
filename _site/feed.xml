@@ -5,9 +5,28 @@
     <description>TinkTank est un laboratoire technologique collaboratif dédié à la culture.</description>
     <link>http://tinktank.club/</link>
     <atom:link href="http://tinktank.club/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Nov 2014 11:43:36 -0500</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2014 11:43:36 -0500</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2014 11:30:53 -0500</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2014 11:30:53 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Project: Manivelle</title>
+        <description>&lt;h3 id=&quot;un-rseau-daffichage-numrique-ouvert-prsentant-des-contenus-ultralocaux-interactifs-il-est-construit-en-infrastructure-ouverte&quot;&gt;Un réseau d’affichage numérique ouvert présentant des contenus ultralocaux interactifs. Il est construit en infrastructure ouverte.&lt;/h3&gt;
+
+&lt;p&gt;Les écrans d’affichage numérique occupent désormais massivement l’espace public dans toutes les grandes villes du monde. Là où on trouvait des affiches imprimées présentant des publicités, des annonces pour des contenus culturels ou des informations signalétiques, on retrouve de plus en plus des écrans de toutes sortes, qui affichent une information pouvant être mise à jour à distance en quelques secondes. Nombre de ces écrans s’inscrivent dans des réseaux d’affichage mis en place et utilisés par l’industrie du marketing pour capter l’attention des consommateurs. Peu ont pour fonction de faciliter la circulation de l’information et des connaissances et de permettre aux passants de d’approfondir leur expérience de la ville.&lt;/p&gt;
+
+&lt;p&gt;Manivelle est un réseau d’affiches numériques qui facilitera la promotion, la circulation et la découverte de contenus culturels, scientifiques et citoyens. Déployées dans des espaces publics et semi-publics, elles permettront aux utilisateurs d’approfondir l’expérience des lieux qu’ils fréquentent et aux promoteurs d’augmenter la portée de leurs messages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TinkTank conçoit et anime des ateliers de prototypage rassemblant tous les intervenants du projet pour en accélérer le développement.&lt;/strong&gt; &lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2014 11:54:46 -0500</pubDate>
+        <link>http://tinktank.club/manivelle</link>
+        <guid isPermaLink="true">http://tinktank.club/manivelle</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Project: Iconothèque</title>
@@ -269,37 +288,6 @@ FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspac
         
         
         <category>event</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Coding Gouter, V2</title>
-        <description>&lt;p&gt;Nous avons profité de l’organisation de Space Apps Challenge au Planétarium Rio Tinto Alcan pour co-organiser la 2ème édition Montréalaise des &lt;a href=&quot;http://ils.sont.la/tags/coding-gouter&quot;&gt;‘coding gouters’&lt;/a&gt;. Ce concept, monté par Julien Dorra (un des fondateurs de Museomix) a pour objectif de familiariser les enfants de 7 à 12 ans (et leurs parents) au code, dans une ambiance décontractée. Ce n’est pas un cours, mais vraiment un atelier découverte. &lt;/p&gt;
-
-&lt;p&gt;Une dizaine d’enfants ont participé, accompagnés par leurs parents, et tous ont réussi à produire leur propre objet. &lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Pour cette fois ci, nous avions décidé de permettre aux enfants de modéliser une pièce en 3D (un casque d’astronaute) puis de l’imprimer sur place grâce à notre imprimante 3D. Nous leur avons présenté &lt;a href=&quot;http://openscad.org/&quot;&gt;openSCAD&lt;/a&gt;, un logiciel gratuit et open source permettant de faire de la modélisation grâce au code. &lt;/p&gt;
-
-&lt;p&gt;Comme le format d’organisation et de participation est assez libre, une des enfants a décidé de ne pas faire un casque d’astronaute, mais de faire une araignée. Elle a réussi à la modéliser en 3D et à l’imprimer aussi ! &lt;/p&gt;
-
-&lt;p&gt;Merci à Manu (SAT) et à Philippe (Google Montréal) pour leur aide dans l’animation et à Hélène pour la coordination. &lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
-        <link>http://tinktank.club/codinggouter</link>
-        <guid isPermaLink="true">http://tinktank.club/codinggouter</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>code</category>
-        
-        <category>enfants</category>
-        
-        <category>impression 3d</category>
-        
-        <category>spaceapps</category>
         
       </item>
     

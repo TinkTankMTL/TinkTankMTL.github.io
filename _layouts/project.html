@@ -27,8 +27,12 @@ layout: default
                 {% endfor %}
             </ul>
             </p>
+            {% if page.website %}
             <p><i class="fa fa-link"></i><a href="{{ page.website }}">{{ page.website }}</a></p>
+            {% endif %}
+            {% if page.fork %}
             <p><i class="fa fa-github"></i><a href="{{ page.fork }}">{{ page.fork }}</a></p>
+            {% endif %}
         </div>
     </div> <!--/row -->
 </div> <!--/container -->

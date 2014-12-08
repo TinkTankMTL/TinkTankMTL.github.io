@@ -3,7 +3,7 @@
 # Site settings
 title: TINKTANK
 description: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: UA-8754239-13 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://tinktank.club"
 
