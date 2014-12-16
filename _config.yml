@@ -2,7 +2,7 @@
 
 # Site settings
 title: TINKTANK
-description: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
+description: "TinkTank est un accélérateur de projets collaboratifs culturels."
 analytics: UA-8754239-13 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://tinktank.club"
@@ -91,7 +91,7 @@ principes:
     texte: "Le prototype est au coeur de notre philosophie de travail et de nos projets. Il permet de tester rapidement des idées et de réunir une équipe autour d'un concept."
   - name: Collaboration 
     faicon: comments
-    texte: "Nous menons tous nos projets de manière collaborative et expérimentons en permanence avec les nouvelles pratiques et les nouveaux outils."
+    texte: "Notre passion : faire travailler les gens de manière collaborative. Pour cela, nous expérimentons en permanence avec les nouvelles pratiques et les nouveaux outils."
   - name: Ouverture
     faicon: unlock
     texte: "Nous pensons qu'à l'heure du numérique, l'innovation doit passer par l'ouverture et le partage. C'est pourquoi tous les projets que nous développons sont documentés et partagés."
@@ -99,14 +99,14 @@ principes:
 # Questions 
 questions: 
   - titre: "J'ai une idée de projet, est-ce que je peux vous en parler ?"
-    reponse: "Oui"
+    reponse: "Oui !"
     n: 1
   - titre: "Travaillez-vous avec des entreprises ?"
     reponse: "Nous travaillons avec toutes les personnes / institutions / organisations qui portent les mêmes valeurs que nous, sans restrictions. Si c'est votre cas, n'hésitez pas à nous contacter pour en discuter."
     n: 2
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "TinkTank est un laboratoire technologique collaboratif dédié à la culture."
+about: "TinkTank est un accélérateur de projets collaboratifs culturels."
 about_plus: "A mi-chemin entre un fablab, un living lab et un incubateur, TinkTank accompagne l'émergence d'une nouvelle génération de projets technologiques culturels, basés sur le commun."
 
 # Testimonial content. Shown on Home and About page. 
