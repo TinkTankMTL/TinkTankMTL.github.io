@@ -74,6 +74,23 @@
     -o-background-size: cover;
     background-size: cover;
 }
+#aboutwrap {
+	background-image: url("/assets/img/atelier.jpg");
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 hr {
 	margin-bottom: 0px;
 }
@@ -173,6 +190,9 @@ a:focus {
 
 .centered {
 	text-align: center
+}
+.he-view .a1 {
+	margin-bottom: 15px;
 }
 
 /*	################################################################

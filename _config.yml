@@ -83,6 +83,9 @@ clients:
   - name: MBAM
     img: mbam.png
     link: http://www.mbam.qc.ca/
+  - name: Espaces Temps 
+    img: espacestemps.png 
+    link: http://espacestemps.ca/ 
     
 # Principes de travail 
 principes:
