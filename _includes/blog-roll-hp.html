@@ -1,4 +1,4 @@
-<div id="portfoliowrap">
+<div id="portfoliowrap" class="section">
     <div class="portfolio-centered container">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <hr>
@@ -13,7 +13,7 @@
                                 <a href="{{  post.url | prepend: site.baseurl }}">
                                     <h3 class="a1" data-animate="fadeInDown">{{ post.title }}</h3>
                                 </a>
-                                <a href="{{  post.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">Voir l'article</a>
+                                <a href="{{  post.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">Lire</a>
                             </div><!-- he bg -->
                         </div><!-- he view -->	
                         </a>	
@@ -24,6 +24,6 @@
 
     </div><!-- portfolio container -->
     <div class="smt">
-        <a href="/blog/"><em>Voir tous les articles →</em></a>
+        <a href="/blog/" class="btn btn-theme btn-lg">Voir tous les projets</a>
     </div>
 </div><!--/Portfoliowrap -->

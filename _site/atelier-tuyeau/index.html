@@ -17,6 +17,9 @@
     <!-- Custom styles for this template -->
     <link href="/assets/css/style.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+
     
     <!-- Custom CSS -->
     <!--<link rel="stylesheet" href="/css/main.css">-->
@@ -32,6 +35,28 @@
     <![endif]-->
 
     <script src="/assets/js/modernizr.js"></script>
+    <script>
+        $( document ).ready(function() {
+            var hashTagActive = "";
+            $(".scroll").click(function (event) {
+                //if(hashTagActive != this.hash) { //this will prevent if the user click several times the same link to freeze the scroll.
+                    event.preventDefault();
+                    //calculate destination place
+                    var dest = 0;
+                    if ($(this.hash).offset().top > $(document).height() - $(window).height()) {
+                        dest = $(document).height() - $(window).height();
+                    } else {
+                        dest = $(this.hash).offset().top;
+                    }
+                    //go to destination
+                    $('html,body').animate({
+                        scrollTop: dest - 80
+                    }, 1000, 'swing');
+                    hashTagActive = this.hash;
+                //}
+            });
+        });
+    </script>
 </head>
 
     <body>
@@ -50,7 +75,6 @@
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li ><a href="/blog/">BLOG</a></li>
-        <li ><a href="/a-propos/">A PROPOS</a></li>
         <li ><a href="/contact/">CONTACT</a></li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -63,13 +87,14 @@
     </div> <!-- /container -->
 </div><!-- /blue -->
 
-<div class="container mtb">
+
+<img class="img-responsive" src="/assets/img/blog/dikini1.jpg">
+<div class="container">
     <div class="row">
         <!-- SINGLE POST -->
-        <div class="col-lg-9">
+        <div class="col-md-8 col-md-offset-2">
             <!-- Blog Post  -->
-            <p><img class="img-responsive" src="/assets/img/blog/dikini1.jpg"></p>
-            <a href="/atelier-tuyeau"><h3 class="ctitle">Atelier d'exploration et brainstorming</h3></a>
+            <a href="/atelier-tuyeau"><h3>Atelier d'exploration et brainstorming</h3></a>
             <p><csmall>12/02/2015. | Par : Arthur</csmall></p>
               
             <p>Nous avions rencontré <a href="http://www.studiodikini.com/">Dikini</a>, studio de design industriel, lors de <a href="http://tinktank.club/premier-atelier-manivelle/">l’atelier de lancement</a> du projet <a href="http://manivelle.io">Manivelle</a>. </p>
@@ -106,158 +131,6 @@
                 <a href="#"><i class="fa fa-google-plus"></i></a>		 		
             </p> -->
         </div> <!--/col-lg-8 -->
-        
-        <div class="col-md-3">
-   <!--  <h4>Search</h4>
-    <div class="hline"></div>
-        <p>
-            <br/>
-            <input type="text" class="form-control" placeholder="Search something">
-        </p>
-    <div class="spacing"></div> 
-    <h4>Subscribe</h4>
-    <div class="hline"></div>
-        <p>
-            <p class="rss-subscribe">Subscribe to this blog <a href="/feed.xml">via RSS</a>.</p>
-        </p>
-    <div class="spacing"></div> 
-    <h4>Catégories</h4>
-    <div class="hline"></div>
-    
-        <p>
-            <a href="/category/#event"><i class="fa fa-angle-right"></i> Event</a>
-            <span class="badge badge-theme pull-right">3</span>
-        </p>
-    
-        <p>
-            <a href="/category/#spaceapps"><i class="fa fa-angle-right"></i> Spaceapps</a>
-            <span class="badge badge-theme pull-right">2</span>
-        </p>
-    
-        <p>
-            <a href="/category/#international"><i class="fa fa-angle-right"></i> International</a>
-            <span class="badge badge-theme pull-right">2</span>
-        </p>
-    
-        <p>
-            <a href="/category/#code"><i class="fa fa-angle-right"></i> Code</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#enfants"><i class="fa fa-angle-right"></i> Enfants</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#impression 3d"><i class="fa fa-angle-right"></i> Impression 3d</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#fabjam"><i class="fa fa-angle-right"></i> Fabjam</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#fabrication numérique"><i class="fa fa-angle-right"></i> Fabrication numérique</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#atelier"><i class="fa fa-angle-right"></i> Atelier</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#leadership"><i class="fa fa-angle-right"></i> Leadership</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#museomix"><i class="fa fa-angle-right"></i> Museomix</a>
-            <span class="badge badge-theme pull-right">3</span>
-        </p>
-    
-        <p>
-            <a href="/category/#video"><i class="fa fa-angle-right"></i> Video</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#analyse"><i class="fa fa-angle-right"></i> Analyse</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#manivelle"><i class="fa fa-angle-right"></i> Manivelle</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-
-    <div class="spacing"></div> -->
-
-    <h4>Evénements</h4>
-    <div class="hline"></div>
-        <ul class="popular-posts">
-             
-                <li>
-                    <a href="/museomix"><img src="/assets/img/event/museomix_thumb.jpg" alt="Popular Post"></a>
-                    <p><a href="/museomix">Museomix</a></p>
-                <em>7, 8, 9 novembre 2014</em><br/>
-                <em>Musée des Beaux arts de Montréal</em>
-            </li>
-             
-                <li>
-                    <a href="/fabjam"><img src="/assets/img/event/fabjam_thumb.jpg" alt="Popular Post"></a>
-                    <p><a href="/fabjam">FabJam</a></p>
-                <em>14 juin 2014</em><br/>
-                <em>partout dans le monde</em>
-            </li>
-             
-                <li>
-                    <a href="/spaceapps"><img src="/assets/img/event/spaceapps_thumb.jpg" alt="Popular Post"></a>
-                    <p><a href="/spaceapps">International Space Apps Challenge</a></p>
-                <em>12 et 13 avril 2014</em><br/>
-                <em>partout dans le monde</em>
-            </li>
-             
-        </ul>
-
-    <div class="spacing"></div>
-
-    <h4>Tags</h4>
-    <div class="hline"></div>
-    <p>
-    
-            <a class="btn btn-theme" href="/category/#spaceapps" role="button">Spaceapps (2)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#international" role="button">International (2)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#code" role="button">Code (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#enfants" role="button">Enfants (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#impression 3d" role="button">Impression 3d (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#fabjam" role="button">Fabjam (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#fabrication numérique" role="button">Fabrication numérique (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#atelier" role="button">Atelier (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#leadership" role="button">Leadership (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#museomix" role="button">Museomix (3)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#video" role="button">Video (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#analyse" role="button">Analyse (1)</a>	         
-        
-            <a class="btn btn-theme" href="/category/#manivelle" role="button">Manivelle (1)</a>	         
-        
-    </p>
-</div>
 
     </div> <!--/row -->
 </div> <!--/container -->
@@ -269,7 +142,7 @@
                 <h4>A propos</h4>
                 <div class="hline-w"></div>
                 <p>TinkTank est un accélérateur de projets à portée technologique et culturelle, basé sur le prototypage collaboratif.</p>
-                <p>TinkTank conçoit et anime des processus d’accompagnement sur-mesure inspiré des méthodes de génération d’idées, du développement agile, des formats courts type hackathons et de la culture maker pour faire émerger la solution la plus pertinente à un contexte donné.</p>
+                <p>TinkTank conçoit et anime des processus d’accompagnement sur-mesure inspirés des méthodes de génération d’idées, du développement agile, des formats courts type hackathons et de la culture maker pour faire émerger la solution la plus pertinente à un contexte donné.</p>
             </div>
             <div class="col-sm-3">
                 <h4>Crédits et licence</h4>

@@ -8,25 +8,22 @@ permalink: /blog/
     <div class="row">
 
         <!-- BLOG POSTS LIST -->
-        <div class="col-md-9">
 
             {% for post in site.categories['blog'] %}
+            <div class="col-md-4">
                 <!-- Blog Post -->
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ post.img }}">
                 </a>    
-                <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ post.title }}</h3></a>
-                <p><csmall>{{ post.date | date: "%-d/%m/%Y" }}. | Par: {{ post.author }}</csmall></p>
-                {{ post.excerpt }}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">En savoir plus</a></p>
+                <a href="{{ post.url | prepend: site.baseurl }}"><h4>{{ post.title }}</h4></a>
+                <!-- <p><csmall>{{ post.date | date: "%-d/%m/%Y" }}. | Par: {{ post.author }}</csmall></p> -->
+                <!-- {{ post.excerpt }} -->
+                <!-- <p class="right"><a href="{{ post.url | prepend: site.baseurl }}">Lire</a></p> -->
                 <div class="hline"></div>
 
                 <div class="spacing"></div>
+            </div>
             {% endfor %}
-
-        </div> <!--/col-lg-8 -->
-
-        {% include sidebar.html %}
 
     </div> <!--/row -->
 </div> <!--/container -->

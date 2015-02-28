@@ -112,7 +112,7 @@ questions:
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "TinkTank est un accélérateur de projets à portée technologique et culturelle, basé sur le prototypage collaboratif."
-about_plus: "TinkTank conçoit et anime des processus d’accompagnement sur-mesure inspiré des méthodes de génération d’idées, du développement agile, des formats courts type hackathons et de la culture maker pour faire émerger la solution la plus pertinente à un contexte donné."
+about_plus: "TinkTank conçoit et anime des processus d’accompagnement sur-mesure inspirés des méthodes de génération d’idées, du développement agile, des formats courts type hackathons et de la culture maker pour faire émerger la solution la plus pertinente à un contexte donné."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
