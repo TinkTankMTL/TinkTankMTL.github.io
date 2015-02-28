@@ -4,26 +4,9 @@ title: Home
 permalink: /
 ---
 <div class="spacer"></div>
-<div id="service">
-    <div class="container">
-        <div class="row centered">
-            <h3>Nos principes de travail</h3>
-            <hr>
-            <h3></h3>
 
-            {% for principe in site.principes %}
-            <div class="col-md-4">
-                <i class="fa fa-{{ principe.faicon }}"></i>
-                <h4>{{ principe.name }}</h4>
-                <p>{{ principe.texte }}</p>
-            </div>
-            {% endfor %}	
-            <div class="col-md-12">
-                <a href="/a-propos/" class="btn btn-theme">En savoir plus</a>
-            </div>		
-        </div>
-    </div> <!--/container -->
-</div> <!--/service -->
+{% include principes.html title="Nos principes de travail" limit=3 %}
+
 
 
 {% include blog-roll-hp.html title="Projets récents" limit=3 %}
