@@ -5,9 +5,44 @@
     <description>TinkTank est un accélérateur de projets collaboratifs culturels.</description>
     <link>http://tinktank.club/</link>
     <atom:link href="http://tinktank.club/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 05 Jan 2015 22:52:54 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2015 22:52:54 -0500</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2015 11:49:55 -0500</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 11:49:55 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Blog: Atelier d&#39;exploration et brainstorming</title>
+        <description>&lt;p&gt;Nous avions rencontré &lt;a href=&quot;http://www.studiodikini.com/&quot;&gt;Dikini&lt;/a&gt;, studio de design industriel, lors de &lt;a href=&quot;http://tinktank.club/premier-atelier-manivelle/&quot;&gt;l’atelier de lancement&lt;/a&gt; du projet &lt;a href=&quot;http://manivelle.io&quot;&gt;Manivelle&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/dikini5.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ils ont fait appel à TinkTank pour concevoir un atelier d’exploration sur un de leurs projets de conception de jeux urbains. &lt;/p&gt;
+
+&lt;p&gt;Nous avons constitué une équipe pluridisciplinaire avec une emphase sur la technologie et l’interaction, que Dikini connait moins. &lt;/p&gt;
+
+&lt;p&gt;Chacun a commencé par présenter des inspirations autour du sujet, en les positionnant au fur et à mesure sur une cartographie globale. Puis nous avons collectivement ajouté du contenu sur la cartographie. Celle-ci nous a servi tout au long de la journée, afin de garder une vue globale du projet. Nous nous sommes appuyés sur des esquisses rapides, afin de donner vies aux idées développées. &lt;/p&gt;
+
+&lt;p&gt;Pendant la journée, nous avons alterné les séances de brainstorming individuelles, en binôme et collectives afin que chacun puisse donner le meilleur. Nous avons aussi changé l’échelle de réfléxion, du très précis au très global, et encouragé les situations de sérendipité. &lt;/p&gt;
+
+&lt;p&gt;Le résultat a été une journée assez intense, mais qui a permis à Dikini d’explorer les limites du projet, afin de proposer ensuite à leur client des concepts les plus pertinents possibles. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/dikini2.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nous leur souhaitons tout le meilleur pour la suite de leur projet et espérons avoir l’occasion de re-travailler avec eux bientôt !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Crédits photos : Lucie Brillouet&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/dikini3.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://tinktank.club/atelier-tuyeau</link>
+        <guid isPermaLink="true">http://tinktank.club/atelier-tuyeau</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Project: Manivelle</title>
@@ -276,35 +311,6 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
         <category>atelier</category>
         
         <category>leadership</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: 2ème édition internationale pour FabJam</title>
-        <description>&lt;p&gt;La deuxième édition du FabJam a réuni plus de 31 fabspaces dans 17 pays différents pour une journée intense de créativité et de fabrication ! Après le thème ‘urban agriculture’ de 2013, les FabJammers ont travaillé sur le thème de ‘Mobiquity’, un mélange de &lt;em&gt;mobilité&lt;/em&gt; et &lt;em&gt;ubiquité&lt;/em&gt;. &lt;/p&gt;
-
-&lt;p&gt;TinTank a coordonné la zone américaine, ce qui a permis d’accueillir de nombreux nouveaux fabspaces dans le projet, nottament au Brésil. 
- &lt;!--more--&gt;
-FabJam a pour objectif d’aider les fabspaces (fablabs, makerspaces, hackerspaces, etc.) à passer du DIY (&lt;em&gt;Do It Yourself&lt;/em&gt;) au DIT (&lt;em&gt;Do It Together&lt;/em&gt;) en créant des moments de partage entre les différents lieux. &lt;/p&gt;
-
-&lt;p&gt;En 2013, le site Wordpress qui avait été mis en place pour l’événement était arrivé au maximum de ses capacités et nous avons décidé cette année de développer une nouvelle plateforme pour documenter les projets. Grâce à notre sponsor Renault, nous avons pu travailler avec le &lt;em&gt;lead developer&lt;/em&gt; de Fablabs.io, basé à Barcelone pour profiter de son expérience. Cela nous a permis de multiplier par 2 le nombre de projets documentés. &lt;/p&gt;
-
-&lt;iframe src=&quot;//player.vimeo.com/video/98759457&quot; width=&quot;960&quot; height=&quot;540&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Merci à tous ceux qui ont participé, à renault pour leur confiance, et à Justyna pour la coordination internationale. Nous nous sommes bien amusés et avons hâte de la prochaine édition ! &lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://tinktank.club/fabjam</link>
-        <guid isPermaLink="true">http://tinktank.club/fabjam</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>fabjam</category>
-        
-        <category>international</category>
-        
-        <category>fabrication numérique</category>
         
       </item>
     

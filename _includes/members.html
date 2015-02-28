@@ -1,28 +1,35 @@
-<div class="container mtb">
-    <div class="row centered">
-        <div class="col-md-12">
+<div class="">
+    <div class="portfolio-centered container">
+        <div class="center">
             <h3>Notre équipe</h3>
             <hr>
         </div>
-        {% for member in site.members %}
-        <div class="col-lg-4 col-md-4 col-sm-4 member-item">
-            <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
-                <div class="he-view">
-                    <div class="bg a0" data-animate="fadeIn">
-                        <h3 class="a1" data-animate="fadeInDown">Contact</h3>
-                        {% for entry in member.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
-                        {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->		
-            </div><!-- he wrap -->
-            <h4>{{ member.name }}</h4>
-            <h5 class="ctitle">{{ member.position }}</h5>
-            <p>{{ member.text }}</p>
-            <div class="hline"></div>
-        </div> <!--/col-lg-3 -->	 	
-        {% endfor %}
+        <div class="row">
+            {% for member in site.members %}
+            <div class="col-lg-4 col-md-4 col-sm-4 event-item">
+                <div class="he-wrap tpl6">
+                <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                    <div class="he-view">
+                        <div class="bg a0" data-animate="fadeIn">
+                            <h3 class="a1" data-animate="fadeInDown">Contact</h3>
+                            {% for entry in member.social %}
+                                <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                            {% endfor %}
+                        </div><!-- he bg -->
+                    </div><!-- he view -->		
+                </div><!-- he wrap -->
+                <div class="member-detail">
+                    <h4>{{ member.name }}</h4>
+                    <h5 class="ctitle">{{ member.position }}</h5>
+                    <p>{{ member.text }}</p>
+                </div>
+                <div class="hline"></div>
+            </div> <!--/col-lg-3 -->	 	
+            {% endfor %}
         
-    </div> <!--/row -->
+        </div> <!--/row -->
+        <div class="center mt">
+            <a href="/contact/" class="btn btn-lg btn-theme">Nous contacter</a>
+        </div>
+    </div>
 </div> <!--/container -->

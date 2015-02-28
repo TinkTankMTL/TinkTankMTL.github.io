@@ -35,10 +35,10 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - 7255 Alexandra, suite 203
-    - H2R 2Y9, Montréal,
-    - QC, Canada.
-email: ping@tinktank.club
+    - "7255 Alexandra, suite 203"
+    - "H2R 2Y9, Montréal,"
+    - "QC, Canada."
+email: ping@tinktank.org
 tel: +438 398 5784
 
 
@@ -89,15 +89,17 @@ clients:
     
 # Principes de travail 
 principes:
+  - name: Sur-mesure
+    faicon: crop
+    texte: "Pas un projet n’est semblable à un autre. Et chacun doit être traité à sa manière. TinkTank s’applique à concevoir à chaque fois un processus spécifique, permettant de répondre exactement à la nécessité et au contexte."
+  - name: Pluri-disciplinarité 
+    faicon: users
+    texte: "TinkTank s’appuie sur un réseau d’experts indépendants qui sont réunis au besoin, afin de créer pour chaque projet une équipe adaptée. Nous encourageons la variété des profils, des parcours et des expériences."
   - name: Prototypage
     faicon: cubes
-    texte: "Le prototype est au coeur de notre philosophie de travail et de nos projets. Il permet de tester rapidement des idées et de réunir une équipe autour d'un concept."
-  - name: Collaboration 
-    faicon: comments
-    texte: "Notre passion : faire travailler les gens de manière collaborative. Pour cela, nous expérimentons en permanence avec les nouvelles pratiques et les nouveaux outils."
-  - name: Ouverture
-    faicon: unlock
-    texte: "Nous pensons qu'à l'heure du numérique, l'innovation doit passer par l'ouverture et le partage. C'est pourquoi tous les projets que nous développons sont documentés et partagés."
+    texte: "Le prototype permet de tester rapidement des idées et de réunir une équipe autour d'un concept. L’atelier TinkTank est équipé de tout le matériel nécessaire pour tous les niveaux de prototypage, du carton à l’impression 3D, en passant par l’électronique."
+
+
 
 # Questions 
 questions: 
@@ -109,8 +111,8 @@ questions:
     n: 2
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "TinkTank est un accélérateur de projets collaboratifs culturels."
-about_plus: "A mi-chemin entre un fablab, un living lab et un incubateur, TinkTank accompagne l'émergence d'une nouvelle génération de projets technologiques culturels, basés sur le commun."
+about: "TinkTank est un accélérateur de projets à portée technologique et culturelle, basé sur le prototypage collaboratif."
+about_plus: "TinkTank conçoit et anime des processus d’accompagnement sur-mesure inspiré des méthodes de génération d’idées, du développement agile, des formats courts type hackathons et de la culture maker pour faire émerger la solution la plus pertinente à un contexte donné."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
