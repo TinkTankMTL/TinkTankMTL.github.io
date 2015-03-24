@@ -86,6 +86,9 @@ clients:
   - name: Espaces Temps 
     img: espacestemps.png 
     link: http://espacestemps.ca/ 
+  - name: ONF 
+    img: onf.png
+    link: http://onf.ca/
     
 # Principes de travail 
 principes:

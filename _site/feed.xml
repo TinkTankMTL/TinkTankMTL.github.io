@@ -5,9 +5,53 @@
     <description>TinkTank est un accélérateur de projets collaboratifs culturels.</description>
     <link>http://tinktank.club/</link>
     <atom:link href="http://tinktank.club/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Feb 2015 18:41:20 -0500</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2015 18:41:20 -0500</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2015 21:55:03 -0400</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2015 21:55:03 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Blog: Conception d&#39;une installation interactive pour l&#39;ONF</title>
+        <description>&lt;p&gt;Depuis le lancement de TinkTank, nous rêvions de travailler avec &lt;a href=&quot;http://onf.ca&quot;&gt;l’ONF&lt;/a&gt;. C’est une institution, reconnue internationalement, qui explore en permanence avec le numérique et les nouveaux usages. C’est pour cela que nous avons été ravis qu’ils nous ont contacté. &lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/onf1_1.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Plus précisément, c’est le département ‘communications’ qui a fait appel à nous pour concevoir et prototyper une installation interactive qui serait présentée dans différents festivals à travers le Canada. &lt;/p&gt;
+
+&lt;p&gt;Pour les aider, nous avons réuni une équipe avec différents spécialistes : &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;JF Malouin de &lt;a href=&quot;http://www.momentum-rd.com/&quot;&gt;Momentum R&amp;amp;D&lt;/a&gt; en arts numériques&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://emmanueldurand.net&quot;&gt;Emmanuel Durand&lt;/a&gt; en traitement d’image &lt;/li&gt;
+  &lt;li&gt;David Barabé de &lt;a href=&quot;http://dix2.com&quot;&gt;Dix2&lt;/a&gt; en fabrication &lt;/li&gt;
+  &lt;li&gt;Marc-Antoine Jacques de &lt;a href=&quot;http://atelierfolklore.ca&quot;&gt;Folklore&lt;/a&gt; en expérience web&lt;/li&gt;
+  &lt;li&gt;PA Chesnel et Arno Robin de &lt;a href=&quot;http://engram.co&quot;&gt;Engram&lt;/a&gt; en installations interactives&lt;/li&gt;
+  &lt;li&gt;Marine Ledoux-Lebard en design événementiel  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/onf1_3.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nous avions conçu une série de deux ateliers ; le premier plus centré sur l’exploration et le second plus sur l’expérimentation. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/onf2_2.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Comme à chaque fois, nous avons été très impréssionés par ce qu’une équipe complémentaire et motivée est capable de produire en un rien de temps ! À la fin du deuxième atelier, nous avons même réussi à construire un démonstrateur, permettant d’expérimenter (et de valider) les principes d’interactions que nous avions imaginé ensemble. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/onf2_4.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le projet qui a été conçu offre une interactivité résolument fun, tout en étant à la pointe de ce qu’il est possible de faire avec les technologies actuelles. Nous avons hâte de passer à l’étape de production avec l’équipe et de pouvoir en montrer plus…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/onf1_5.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://tinktank.club/atelier-gifbox</link>
+        <guid isPermaLink="true">http://tinktank.club/atelier-gifbox</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Blog: Atelier d&#39;exploration et brainstorming</title>
@@ -285,32 +329,6 @@ Nous voulons aussi tester la plateforme sur d’autres événements que Museomix
         
         
         <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Atelier avec le Banff Center</title>
-        <description>&lt;p&gt;Le &lt;a href=&quot;http://www.banffcentre.ca/&quot;&gt;Banff Centre&lt;/a&gt; a fait appel à nous  pour concevoir avec eux un atelier dans le cadre de la construction d’un programme de &lt;em&gt;leadership&lt;/em&gt; dans le domaine de la culture. &lt;/p&gt;
-
-&lt;p&gt;Nous les avons accueillis dans notre atelier pour deux jours intense de créativité. Le &lt;em&gt;workshop&lt;/em&gt; que nous avons conçus a ensuite été animé à Halifax mi-octobre. &lt;/p&gt;
-
-&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Nous avons notamment conçu un &lt;a href=&quot;https://drive.google.com/file/d/0B1cc-Ko5QEEMY21pVUxPVVBFcUk/view?usp=sharing&quot;&gt;jeu&lt;/a&gt; sur la base de &lt;em&gt;snakes and ladders&lt;/em&gt; pour amener les participants de l’atelier à dessiner le parcours d’un visiteur donné. Ce modèle, inspiré du deisgn de service, avait surtout pour objectif de forcer les participants à réfléchir au parcours du visiteur dans son intégralité, depuis chez lui jusqu’au musée, et de réfléchir à tout ce qui pouvait faciliter ou compliquer cette visite. Ils avaient aussi à définitr le ‘climax’, l’aboutissement d’une visite réussie.  &lt;/p&gt;
-
-&lt;p&gt;Merci à Jerry et à Charlotte de nous avoir fait confiance. Nous espérons que c’est le début d’une longue collaboration ! &lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 10 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://tinktank.club/atelier-banff</link>
-        <guid isPermaLink="true">http://tinktank.club/atelier-banff</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>atelier</category>
-        
-        <category>leadership</category>
         
       </item>
     
